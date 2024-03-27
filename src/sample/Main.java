@@ -71,7 +71,7 @@ public class Main extends Application {
     TextField userNameSField = new TextField();
     PasswordField passwordSField = new PasswordField();
     final String local = "http://localhost:3000";
-    final String heroku = "https://adhdserver.herokuapp.com";
+    final String heroku = "https://safe-reaches-92386-edf83a4939bb.herokuapp.com/";
     String urlFinal = heroku; //local //heroku
     public void start(Stage primaryStage) throws Exception {
         //setting buttons effect
