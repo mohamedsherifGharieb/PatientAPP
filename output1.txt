@@ -1,0 +1,379 @@
+{"Start Menu Programs":[
+
+{"BaseName":"7 Sticky Notes"},
+
+{"BaseName":"Uninstall 7 Sticky Notes"},
+
+{"BaseName":"Speech Recognition"},
+
+{"BaseName":"Character Map"},
+
+{"BaseName":"Windows Journal"},
+
+{"BaseName":"Calculator"},
+
+{"BaseName":"Math Input Panel"},
+
+{"BaseName":"Paint"},
+
+{"BaseName":"Remote Desktop Connection"},
+
+{"BaseName":"Snipping Tool"},
+
+{"BaseName":"Sound Recorder"},
+
+{"BaseName":"Steps Recorder"},
+
+{"BaseName":"Sticky Notes"},
+
+{"BaseName":"Windows Fax and Scan"},
+
+{"BaseName":"Windows Media Player"},
+
+{"BaseName":"Wordpad"},
+
+{"BaseName":"XPS Viewer"},
+
+{"BaseName":"Component Services"},
+
+{"BaseName":"Computer Management"},
+
+{"BaseName":"dfrgui"},
+
+{"BaseName":"Disk Cleanup"},
+
+{"BaseName":"Event Viewer"},
+
+{"BaseName":"iSCSI Initiator"},
+
+{"BaseName":"Memory Diagnostics Tool"},
+
+{"BaseName":"ODBC Data Sources (32-bit)"},
+
+{"BaseName":"ODBC Data Sources (64-bit)"},
+
+{"BaseName":"Performance Monitor"},
+
+{"BaseName":"Resource Monitor"},
+
+{"BaseName":"services"},
+
+{"BaseName":"System Configuration"},
+
+{"BaseName":"System Information"},
+
+{"BaseName":"Task Scheduler"},
+
+{"BaseName":"Windows Firewall with Advanced Security"},
+
+{"BaseName":"Windows PowerShell (x86)"},
+
+{"BaseName":"Windows PowerShell ISE (x86)"},
+
+{"BaseName":"Windows PowerShell ISE"},
+
+{"BaseName":"Android Studio"},
+
+{"BaseName":"Atmel Studio 7.0 Command Prompt"},
+
+{"BaseName":"Atmel Studio 7.0"},
+
+{"BaseName":"Autodesk Maya 2016"},
+
+{"BaseName":"FCheck"},
+
+{"BaseName":"License Transfer Utility"},
+
+{"BaseName":"Avira Antivirus Help"},
+
+{"BaseName":"Avira on the Internet"},
+
+{"BaseName":"Start Avira Antivirus"},
+
+{"BaseName":"Avira Launcher"},
+
+{"BaseName":"????????? Sid Meiers Civilization Beyond Earth"},
+
+{"BaseName":"??????? Sid Meiers Civilization Beyond Earth"},
+
+{"BaseName":"CDisplayEx"},
+
+{"BaseName":"Uninstall CDisplayEx"},
+
+{"BaseName":"CyberLink MediaStory"},
+
+{"BaseName":"CyberLink PhotoDirector 3"},
+
+{"BaseName":"PowerDirector 10"},
+
+{"BaseName":"DAEMON Tools Lite"},
+
+{"BaseName":"SPTD Setup"},
+
+{"BaseName":"Dolby Digital Plus"},
+
+{"BaseName":"EPUB File Reader"},
+
+{"BaseName":"Uninstall EPUB File Reader"},
+
+{"BaseName":"Git Bash"},
+
+{"BaseName":"Git CMD"},
+
+{"BaseName":"Git GUI"},
+
+{"BaseName":"Intel(R) ME FW Recovery Agent"},
+
+{"BaseName":"Grabber Help"},
+
+{"BaseName":"IDM Help"},
+
+{"BaseName":"Internet Download Manager"},
+
+{"BaseName":"license"},
+
+{"BaseName":"TUTORIALS"},
+
+{"BaseName":"Uninstall IDM"},
+
+{"BaseName":"About Java"},
+
+{"BaseName":"Check For Updates"},
+
+{"BaseName":"Configure Java"},
+
+{"BaseName":"Get Help"},
+
+{"BaseName":"Visit Java.com"},
+
+{"BaseName":"Java Mission Control"},
+
+{"BaseName":"Reference Documentation"},
+
+{"BaseName":"JavaFX Scene Builder 2.0"},
+
+{"BaseName":"IntelliJ IDEA Community Edition 15.0.3"},
+
+{"BaseName":"Lenovo Motion Control"},
+
+{"BaseName":"Lenovo Settings"},
+
+{"BaseName":"Lenovo Smart Voice"},
+
+{"BaseName":"Lenovo Smart VoiceUninstall"},
+
+{"BaseName":"Lenovo Updates"},
+
+{"BaseName":"Lenovo VeriFace Pro"},
+
+{"BaseName":"OneKey Recovery"},
+
+{"BaseName":"Power2Go Express"},
+
+{"BaseName":"Power2Go Online Help"},
+
+{"BaseName":"Power2Go"},
+
+{"BaseName":"Readme"},
+
+{"BaseName":"Lenovo PowerDVD 10"},
+
+{"BaseName":"User Manuals"},
+
+{"BaseName":"Desintalar LIMBO"},
+
+{"BaseName":"Malwarebytes Anti-Malware Chameleon"},
+
+{"BaseName":"Malwarebytes Anti-Malware Notifications"},
+
+{"BaseName":"Malwarebytes Anti-Malware"},
+
+{"BaseName":"Uninstall Malwarebytes Anti-Malware"},
+
+{"BaseName":"MATLAB R2013b"},
+
+{"BaseName":"Polyspace Bug Finder R2013b"},
+
+{"BaseName":"Polyspace Code Prover R2013b"},
+
+{"BaseName":"Expression Blend SDK Documentation"},
+
+{"BaseName":"Digital Certificate for VBA Projects"},
+
+{"BaseName":"Microsoft Clip Organizer"},
+
+{"BaseName":"Microsoft Office 2010 Language Preferences"},
+
+{"BaseName":"Microsoft Office 2010 Upload Center"},
+
+{"BaseName":"Microsoft Office Picture Manager"},
+
+{"BaseName":"Microsoft Access 2010"},
+
+{"BaseName":"Microsoft Excel 2010"},
+
+{"BaseName":"Microsoft InfoPath Designer 2010"},
+
+{"BaseName":"Microsoft InfoPath Filler 2010"},
+
+{"BaseName":"Microsoft OneNote 2010"},
+
+{"BaseName":"Microsoft Outlook 2010"},
+
+{"BaseName":"Microsoft PowerPoint 2010"},
+
+{"BaseName":"Microsoft Publisher 2010"},
+
+{"BaseName":"Microsoft SharePoint Workspace 2010"},
+
+{"BaseName":"Microsoft Word 2010"},
+
+{"BaseName":"Microsoft Silverlight"},
+
+{"BaseName":"Welcome"},
+
+{"BaseName":"VS2012 ARM Cross Tools Command Prompt"},
+
+{"BaseName":"VS2012 x64 Cross Tools Command Prompt"},
+
+{"BaseName":"VS2012 x86 Native Tools Command Prompt"},
+
+{"BaseName":"MySQL Installer - Community"},
+
+{"BaseName":"Notepad++"},
+
+{"BaseName":"GeForce Experience"},
+
+{"BaseName":"Realtek HD Audio Manager"},
+
+{"BaseName":"Microsoft SharePoint Workspace 2010"},
+
+{"BaseName":"Media Go"},
+
+{"BaseName":"StageLight"},
+
+{"BaseName":"Reference Card"},
+
+{"BaseName":"Star Wars - Empire at War - Forces of Corruption Manual"},
+
+{"BaseName":"Star Wars - Empire at War Manual"},
+
+{"BaseName":"Tech Tree"},
+
+{"BaseName":"Troubleshooting Guide"},
+
+{"BaseName":"Language Settings"},
+
+{"BaseName":"Star Wars - Empire At War - Forces of Corruption"},
+
+{"BaseName":"Star Wars - Empire At War"},
+
+{"BaseName":"Uninstall STAR WARS� - Empire At WarT Gold"},
+
+{"BaseName":"StarCraft II"},
+
+{"BaseName":"Uninstall StarCraft II"},
+
+{"BaseName":"Default Programs"},
+
+{"BaseName":"Task Manager"},
+
+{"BaseName":"Windows Easy Transfer"},
+
+{"BaseName":"Windows PowerShell"},
+
+{"BaseName":"Tibia Website"},
+
+{"BaseName":"Tibia"},
+
+{"BaseName":"Uninstall Tibia"},
+
+{"BaseName":"Documentation"},
+
+{"BaseName":"Release Notes"},
+
+{"BaseName":"VideoLAN Website"},
+
+{"BaseName":"VLC media player - reset preferences and cache files"},
+
+{"BaseName":"VLC media player skinned"},
+
+{"BaseName":"VLC media player"},
+
+{"BaseName":"Blend for Visual Studio 2013"},
+
+{"BaseName":"Visual Studio 2013"},
+
+{"BaseName":"Visual Studio Tools"},
+
+{"BaseName":"Application Verifier (X64)"},
+
+{"BaseName":"Application Verifier Help"},
+
+{"BaseName":"Application Verifier (WOW)"},
+
+{"BaseName":"Windows App Cert Kit"},
+
+{"BaseName":"Windows Performance Analyzer"},
+
+{"BaseName":"Windows Performance Recorder"},
+
+{"BaseName":"Documentation for Desktop Apps"},
+
+{"BaseName":"Documentation for Windows Store Apps"},
+
+{"BaseName":"Samples for Desktop Apps"},
+
+{"BaseName":"Samples for Windows Store Apps"},
+
+{"BaseName":"Tools for Desktop Apps"},
+
+{"BaseName":"Tools for Windows Store Apps"},
+
+{"BaseName":"Windows Software Development Kit"},
+
+{"BaseName":"Windows Phone Application Deployment 8.1"},
+
+{"BaseName":"Windows Phone Developer Power Tools 8.1"},
+
+{"BaseName":"Windows Phone Developer Registration 8.1"},
+
+{"BaseName":"Uninstall XAMPP"},
+
+{"BaseName":"XAMPP Control Panel"},
+
+{"BaseName":"XAMPP htdocs folder"},
+
+{"BaseName":"Adobe Application Manager"},
+
+{"BaseName":"Adobe Photoshop CC 2015"},
+
+{"BaseName":"Adobe Reader XI"},
+
+{"BaseName":"Camera"},
+
+{"BaseName":"Desktop"},
+
+{"BaseName":"FileManager"},
+
+{"BaseName":"Google Chrome"},
+
+{"BaseName":"Immersive Control Panel"},
+
+{"BaseName":"Intel(R) HD Graphics Control Panel"},
+
+{"BaseName":"Magic Transfer"},
+
+{"BaseName":"MATLAB R2013b"},
+
+{"BaseName":"PhotosApp"},
+
+{"BaseName":"Search"},
+
+{"BaseName":"SmartVoiceToast"},
+
+{"BaseName":"Sublime Text 2"},
+
+"BaseName":"Windows Store"}
+
+]}

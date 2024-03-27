@@ -1,0 +1,8 @@
+.title {
+    -fx-padding: 4px;
+    -fx-border-width: 2px;
+    -fx-border-insets: 1 1 1 1;
+    -fx-border-color: red;
+    -fx-border-radius: 25px;
+
+}

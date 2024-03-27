@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<HBox fx:id="mainHBox" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <VBox fx:id="mainVBox">
+         <children>
+            <HBox fx:id="taskNowTop" alignment="CENTER" style="-fx-background-color: #2e6a6f;">
+               <children>
+                  <Label fx:id="taskLabel" alignment="CENTER" contentDisplay="CENTER" text="Report" textFill="WHITE">
+                     <font>
+                        <Font name="Copperplate Gothic Bold" size="22.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox fx:id="taskNowBottom" prefHeight="70.0" prefWidth="1028.0" style="-fx-background-color: #EF9739;">
+               <children>
+                  <VBox fx:id="vBoxTask" prefHeight="67.0" prefWidth="993.0">
+                     <children>
+                        <HBox fx:id="taskNowMiddle" prefHeight="31.0" prefWidth="1000.0" spacing="20.0">
+                           <children>
+                              <Label fx:id="desctiptionLabel" contentDisplay="CENTER" text="Description:">
+                                 <font>
+                                    <Font name="Copperplate Gothic Bold" size="15.0" />
+                                 </font>
+                                 <padding>
+                                    <Insets bottom="5.0" left="30.0" right="5.0" top="5.0" />
+                                 </padding>
+                                 <HBox.margin>
+                                    <Insets />
+                                 </HBox.margin>
+                              </Label>
+                              <Label fx:id="descriptionField" prefHeight="28.0" prefWidth="777.0" text="Label">
+                                 <font>
+                                    <Font name="Copperplate Gothic Bold" size="15.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox fx:id="hboxProgress" alignment="CENTER" prefHeight="21.0" prefWidth="953.0" translateY="10.0" BorderPane.alignment="CENTER">
+                           <children>
+                              <Label fx:id="sTime" alignment="TOP_CENTER" prefHeight="21.0" prefWidth="60.0" text="Label">
+                                 <HBox.margin>
+                                    <Insets right="20.0" />
+                                 </HBox.margin>
+                                 <font>
+                                    <Font name="Copperplate Gothic Bold" size="15.0" />
+                                 </font>
+                              </Label>
+                              <ProgressBar fx:id="progressBar" maxHeight="25.0" minHeight="10.0" prefHeight="21.0" prefWidth="699.0" progress="0.7" />
+                              <Label fx:id="rTime" alignment="TOP_CENTER" prefHeight="21.0" text="Label">
+                                 <HBox.margin>
+                                    <Insets left="20.0" />
+                                 </HBox.margin>
+                                 <font>
+                                    <Font name="Copperplate Gothic Bold" size="15.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="67.0" prefWidth="35.0" spacing="5.0">
+                     <children>
+                        <Button fx:id="submitButton" alignment="CENTER" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+                        <Button fx:id="expandButton" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <BorderPane fx:id="dayInfo" maxWidth="-Infinity" prefHeight="362.0" prefWidth="1028.0" style="-fx-background-color: #05A8AA;">
+               <top>
+                  <VBox alignment="CENTER" style="-fx-background-color: #aeb7b4;">
+                     <children>
+                        <HBox fx:id="dayHBox" alignment="CENTER" prefWidth="1028.0" spacing="50.0" BorderPane.alignment="CENTER">
+                           <children>
+                              <Button fx:id="previousDay" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" />
+                              <Label fx:id="dayLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="32.0" prefWidth="165.0" text="Wednesday">
+                                 <font>
+                                    <Font name="Copperplate Gothic Bold" size="22.0" />
+                                 </font>
+                                 <padding>
+                                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                 </padding>
+                              </Label>
+                              <Button fx:id="nextDay" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" />
+                           </children>
+                        </HBox>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="20.0" text="Click on task to edit">
+                           <font>
+                              <Font name="Copperplate Gothic Bold" size="15.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </VBox>
+               </top>
+               <center>
+                  <ScrollPane fx:id="tasksScroll" prefHeight="201.0" prefViewportHeight="257.0" prefViewportWidth="1028.0" prefWidth="1028.0" vbarPolicy="NEVER">
+                     <content>
+                        <HBox fx:id="tasksHBox" prefHeight="170.0" prefWidth="1026.0" spacing="5.0" BorderPane.alignment="CENTER" />
+                     </content>
+                  </ScrollPane>
+               </center>
+               <bottom>
+                  <HBox alignment="CENTER" prefHeight="37.0" prefWidth="1028.0" style="-fx-background-color: #2e6a6f;" BorderPane.alignment="CENTER">
+                     <children>
+                        <Label alignment="CENTER" contentDisplay="CENTER" text="tasks Completed" textFill="WHITE">
+                           <font>
+                              <Font name="Copperplate Gothic Bold" size="18.0" />
+                           </font>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="30.0" top="10.0" />
+                           </padding>
+                        </Label>
+                        <ProgressBar fx:id="dayProgress" prefHeight="23.0" prefWidth="750.0" progress="0.0" />
+                     </children>
+                  </HBox>
+               </bottom>
+            </BorderPane>
+         </children>
+      </VBox>
+   </children>
+</HBox>

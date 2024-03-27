@@ -1,0 +1,1480 @@
+C:\Program Files (x86)\7 Sticky Notes\7StickyNotes.exe
+C:\Program Files (x86)\7 Sticky Notes\unins000.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroExt\AcroExt.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\plug_ins\pi_brokers\64BitMAPIBroker.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroBroker.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32Info.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroTextExtractor.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AdobeCollabSync.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\arh.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\Eula.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\LogTransport2.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\reader_sl.exe
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\wow_helper.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atbackend\atbackend.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atbackend\atfw.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atbackend\atprogram.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atpackmanager\7z.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atpackmanager\atpackcli.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\atpackmanager\PackManager.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\Extensions\Application\StudioCommandPrompt.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\IronPython\ipy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\IronPython\ipy64.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\IronPython\ipyw.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\IronPython\ipyw64.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\packs\arm\cmsis\4.2.0\CMSIS\Utilities\PackChk.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\packs\arm\cmsis\4.2.0\CMSIS\Utilities\SVDConv.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\basename.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\cat.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\chgrp.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\chmod.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\chown.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\chroot.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\cksum.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\comm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\cp.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\csplit.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\cut.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\date.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\dd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\df.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\dir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\dircolors.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\dirname.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\du.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\echo.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\env.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\expand.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\expr.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\factor.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\false.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\fmt.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\fold.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\gdate.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\gecho.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\ginstall.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\gln.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\gmkdir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\grmdir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\gsort.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\head.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\hostid.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\hostname.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\id.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\install.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\join.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\kill.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\link.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\ln.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\logname.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\ls.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\make.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\md5sum.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\mkdir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\mkfifo.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\mknod.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\mv.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\nice.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\nl.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\nohup.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\od.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\paste.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\pathchk.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\pinky.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\pr.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\printenv.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\printf.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\ptx.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\pwd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\readlink.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\rm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\rmdir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\seq.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\setuidgid.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\sha1sum.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\shred.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\sleep.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\sort.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\split.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\stat.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\stty.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\su.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\sum.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\sync.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tac.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tail.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tee.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\test.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\touch.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tr.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\true.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tsort.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\tty.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\uname.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\unexpand.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\uniq.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\unlink.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\uptime.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\users.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\vdir.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\wc.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\who.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\whoami.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\yes.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\shellutils\[.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\arm-none-eabi\bin\strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-addr2line.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-c++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-c++filt.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-cpp.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-elfedit.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-g++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcc-4.9.3.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcc-ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcc-nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcc-ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcc.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gcov.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gdb-py.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gdb.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-gprof.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-readelf.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-size.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-strings.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\bin\arm-none-eabi-strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\install-tools\fixincl.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\cc1.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\cc1plus.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\collect2.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\lto-wrapper.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\arm\arm-gnu-toolchain\lib\gcc\arm-none-eabi\4.9.3\lto1.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\c++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\g++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\gcc.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\avr32\bin\strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-addr2line.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-c++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-c++filt.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-cpp.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-elfedit.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-g++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-gcc-4.4.7.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-gcc.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-gcov.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-gdb.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-gprof.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-readelf.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-size.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-strings.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\bin\avr32-strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\libexec\gcc\avr32\4.4.7\install-tools\fixincl.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\libexec\gcc\avr32\4.4.7\cc1.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\libexec\gcc\avr32\4.4.7\cc1plus.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr32\avr32-gnu-toolchain\libexec\gcc\avr32\4.4.7\collect2.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\bin\strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-addr2line.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-as.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-c++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-c++filt.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-cpp.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-elfedit.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc-4.9.2.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc-ar.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc-nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc-ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcov.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gdb-py.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gdb.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gprof.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-ld.bfd.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-ld.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-nm.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objdump.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-ranlib.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-readelf.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-size.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-strings.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-strip.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\install-tools\fixincl.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\cc1.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\cc1plus.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\collect2.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\lto-wrapper.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\libexec\gcc\avr\4.9.2\lto1.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\avrasm2.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\tools\STK500\Upgrade.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\AtmelStudio.exe
+C:\Program Files (x86)\Atmel\Studio\7.0\StudioInstallAgent.exe
+C:\Program Files (x86)\Atmel\Studio\Drivers\Jungo\usb32\wdreg.exe
+C:\Program Files (x86)\Atmel\Studio\Drivers\Jungo\usb64\wdreg.exe
+C:\Program Files (x86)\Atmel\Studio\Drivers\Segger\CDC\InstDriversCDC.exe
+C:\Program Files (x86)\Atmel\Studio\Drivers\Segger\x64\DPInst.exe
+C:\Program Files (x86)\Atmel\Studio\Drivers\Segger\x86\DPInst.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avadmin.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avcenter.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avconfig.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avgnt.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avguard.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avira_en____fm.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avmailc.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avmailc7.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avmcdlg.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avnotify.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avrestart.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avscan.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avshadow.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avupgsvc.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avwebg7.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avwebgrd.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\avwsc.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\ccuac.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\checkt.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\fact.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\guardgui.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\inssda64.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\ipmgui.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\licmgr.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\rscdwld.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\sched.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\setup.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\setuppending.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\toastnotifier.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\update.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\updrgui.exe
+C:\Program Files (x86)\Avira\AntiVir Desktop\wsctool.exe
+C:\Program Files (x86)\Avira\Launcher\Avira.Messenger.exe
+C:\Program Files (x86)\Avira\Launcher\Avira.ServiceHost.exe
+C:\Program Files (x86)\Avira\Launcher\Avira.Systray.exe
+C:\Program Files (x86)\Avira\Launcher\Avira.SystrayStartTrigger.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\tools\7za.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AAMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AdobeApplicationManager(URIHandler).exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AdobeApplicationManager.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\AAMCustomHook.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\AAMLauncherUtil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\PDapp.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\D6\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\D6\TokenGenerator64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\Adobe_Helperx32.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\Adobe_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\CustomHook_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\TokenResolverx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\Adobe_Helperx32.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\Adobe_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\CustomHook_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\TokenResolverx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\PlatformUtil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DWA\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DWA\TokenGenerator64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\customhook\AdobeIPCBrokerCustomHook.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\AdobeIPCBroker.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\LWA\AAM Registration Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\LWA\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\AAM Registration Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\AAM Registration Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\AASIapp.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAMLauncher.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\Adobe Application Manager (Updater).exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\LogTransport2.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updatercorehelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updaterstartuputility.exe
+C:\Program Files (x86)\Common Files\InstallShield\Engine\6\Intel 32\IKernel.exe
+C:\Program Files (x86)\Common Files\InstallShield\Professional\RunTime\11\50\Intel32\DotNetInstaller.exe
+C:\Program Files (x86)\Common Files\InstallShield\Professional\RunTime\11\50\Intel32\ISBEW64.exe
+C:\Program Files (x86)\Common Files\Java\Java Update\jaureg.exe
+C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\DW\DW20.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\DW\DWTRIG20.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\EQUATION\EQNEDT32.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\pipanel.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\TabTip32.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\VSLauncher.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\VSWebLauncher.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSInfo\msinfo32.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\ODeploy.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\Setup.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\FLTLDR.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\LICLUA.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\MSOICONS.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\Oarpmany.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\OfficeSoftwareProtectionPlatform\OSPPREARM.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\armv4i\8.1\edm3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\armv4i\dxcap.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\armv4i\msvsmon.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\armv4i\VSDebugLaunchNotify.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\armv4i\vsgraphicsremoteengine.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\lib\TailoredDeploy.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\x86\8.1\edm3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\x86\dxcap.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\x86\msvsmon.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\x86\VSDebugLaunchNotify.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Debugger\target\x86\vsgraphicsremoteengine.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\DiagnosticsHub\target\armv4i\VsStandardCollector.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\DiagnosticsHub\target\x86\VsStandardCollector.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\PowerProfiler\armv4i\DisplayPowerDataCollectionAgent.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\PowerProfiler\x86\DisplayPowerDataCollectionAgent.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Profiler\target\armv4i\EDM3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Profiler\target\armv4i\WPVsperf.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Profiler\target\x86\EDM3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\12.0\Profiler\target\x86\WPVsperf.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOverUsbEnum.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOverUsbSvc.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\armv4i\clientshutdown3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\armv4i\CMAccept3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\armv4i\ConmanClient3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\x86\clientshutdown3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\x86\CMAccept3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\12.0\Target\wce400\x86\ConmanClient3.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Smart Tag\SmartTagInstall.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Source Engine\OSE.EXE
+C:\Program Files (x86)\Common Files\Microsoft Shared\TextConv\WksConv\Wkconv.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\TextTemplating\12.0\TextTransform.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\TextTemplating\14.0\TextTransform.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VS7Debug\VsImmersiveActivateHelper120.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHost.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHostx64.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.ServiceModuleHost.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.ServiceModuleHostx64.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\VsHub.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VSTA\8.0\x86\vsta_ep32.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\VSTO\10.0\VSTOInstaller.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Simulator\12.0\Microsoft.Windows.Simulator.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Simulator\12.0\Microsoft.Windows.Simulator.Service.exe
+C:\Program Files (x86)\CyberLink\MediaStory\MUITransfer\MUIStartMenu.exe
+C:\Program Files (x86)\CyberLink\MediaStory\OLRSubmission\OLRStateCheck.exe
+C:\Program Files (x86)\CyberLink\MediaStory\OLRSubmission\OLRSubmission.exe
+C:\Program Files (x86)\CyberLink\MediaStory\subsys\BigBang\Runtime\CLUpdater.exe
+C:\Program Files (x86)\CyberLink\MediaStory\subsys\CES\CES_AudioCacheAgent.exe
+C:\Program Files (x86)\CyberLink\MediaStory\subsys\CES\CES_CacheAgent.exe
+C:\Program Files (x86)\CyberLink\MediaStory\subsys\Kernel\Boomerang\Boomerang.exe
+C:\Program Files (x86)\CyberLink\MediaStory\CpuChecker.exe
+C:\Program Files (x86)\CyberLink\MediaStory\MediaStory.exe
+C:\Program Files (x86)\CyberLink\MediaStory\MediaStoryAgent.exe
+C:\Program Files (x86)\CyberLink\MediaStory\MotionMenuGenerator.exe
+C:\Program Files (x86)\CyberLink\MediaStory\vthum.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\Kernel\Boomerang\Boomerang.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\Kernel\Photo\CLImageCodec.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\OLRSubmission\OLRStateCheck.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\OLRSubmission\OLRSubmission.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\Presentation\UI\BigBang\Runtime\CLUpdater.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\PhotoDirector3.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\PhotoDirectorCDP.exe
+C:\Program Files (x86)\CyberLink\PhotoDirector3\PhotoDirectorXPT.exe
+C:\Program Files (x86)\CyberLink\Shared files\EffectExtractor.exe
+C:\Program Files (x86)\CyberLink\Shared files\RichVideo.exe
+C:\Program Files (x86)\DAEMON Tools Lite\DTHelper.exe
+C:\Program Files (x86)\DAEMON Tools Lite\DTLite.exe
+C:\Program Files (x86)\DAEMON Tools Lite\DTShellHlp.exe
+C:\Program Files (x86)\DAEMON Tools Lite\dtsoftbusinst64.exe
+C:\Program Files (x86)\DAEMON Tools Lite\InstallGadget.exe
+C:\Program Files (x86)\DAEMON Tools Lite\SPTDinst-x64.exe
+C:\Program Files (x86)\DAEMON Tools Lite\SPTDinst-x86.exe
+C:\Program Files (x86)\DAEMON Tools Lite\uninst.exe
+C:\Program Files (x86)\EPUB File Reader\epubfilereader.exe
+C:\Program Files (x86)\EPUB File Reader\unins000.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.109\Installer\chrmstp.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.109\Installer\setup.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.109\delegate_execute.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.116\Installer\chrmstp.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.116\Installer\setup.exe
+C:\Program Files (x86)\Google\Chrome\Application\48.0.2564.116\delegate_execute.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\old_chrome.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleCrashHandler.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleCrashHandler64.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdate.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdateBroker.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdateComRegisterShell64.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdateOnDemand.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdateSetup.exe
+C:\Program Files (x86)\Google\Update\1.3.29.5\GoogleUpdateWebPlugin.exe
+C:\Program Files (x86)\Google\Update\Download\{430FD4D0-B729-4F61-AA34-91526481799D}\1.3.29.5\GoogleUpdateSetup.exe
+C:\Program Files (x86)\Google\Update\Download\{4DC8B4CA-1BDA-483E-B5FA-D3C12E15B62D}\48.0.2564.116\48.0.2564.116_48.0.2564.109_chrome_updater.exe
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\HTML Help Workshop\hhc.exe
+C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
+C:\Program Files (x86)\IIS Express\appcmd.exe
+C:\Program Files (x86)\IIS Express\iisexpress.exe
+C:\Program Files (x86)\IIS Express\IisExpressAdminCmd.exe
+C:\Program Files (x86)\IIS Express\iisexpresstray.exe
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\FWService\IntelMeFWService.exe
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\uninstall\x64\Drv64.exe
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\uninstall\Setup.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\Bootstrap.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\CrashReportSender.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\ismagent.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\ismShutdownTool.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\MessageMediator.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\SelfUpdateLauncher.exe
+C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\updateui.exe
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\x64\Drv64.exe
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\Setup.exe
+C:\Program Files (x86)\Internet Download Manager\IDMan.exe
+C:\Program Files (x86)\Internet Download Manager\idmBroker.exe
+C:\Program Files (x86)\Internet Download Manager\IDMGrHlp.exe
+C:\Program Files (x86)\Internet Download Manager\IDMIntegrator64.exe
+C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
+C:\Program Files (x86)\Internet Download Manager\MediumILStart.exe
+C:\Program Files (x86)\Internet Download Manager\Uninstall.exe
+C:\Program Files (x86)\Internet Explorer\ExtExport.exe
+C:\Program Files (x86)\Internet Explorer\ieinstal.exe
+C:\Program Files (x86)\Internet Explorer\ielowutil.exe
+C:\Program Files (x86)\Internet Explorer\iexplore.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\fsnotifier.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\fsnotifier64.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\idea.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\idea64.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\restarter.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\runnerw.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\Uninstall.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\bin\vistalauncher.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\jabswitch.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\java-rmi.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\java.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\javacpl.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\javaw.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\javaws.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\jjs.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\jp2launcher.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\keytool.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\kinit.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\klist.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\ktab.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\orbd.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\pack200.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\policytool.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\rmid.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\rmiregistry.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\servertool.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\ssvagent.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\tnameserv.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\jre\jre\bin\unpack200.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\lib\libpty\win\x86\winpty-agent.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\lib\libpty\win\x86_64\cyglaunch.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\lib\libpty\win\x86_64\winpty-agent.exe
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.3\lib\libpty\win\xp\winpty-agent.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\PowerConsumptRank\PowerConsumptRank.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\devcon.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\DPInst.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\Energy Manager.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\hh.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\hh_win7.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\TurnOnODD.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\Uninstall_deskband.exe
+C:\Program Files (x86)\Lenovo\Energy Manager\utility.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\ApsChk64.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\devcon.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\DPInst.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\Lenovo Settings.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\LenovoSetSvr.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\OpenInterface.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\PopToastProcess.exe
+C:\Program Files (x86)\Lenovo\Lenovo Settings\wdreg.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\Uninstall\uninstall.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\LsvController.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\LsvPopWnd.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\LsvToastNotification.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\LsvTrayLoad.exe
+C:\Program Files (x86)\Lenovo\Lenovo Smart Voice\LsvUIService.exe
+C:\Program Files (x86)\Lenovo\Lenovo Updates\LU.exe
+C:\Program Files (x86)\Lenovo\Lenovo Updates\LUB.exe
+C:\Program Files (x86)\Lenovo\Lenovo Updates\LUService.exe
+C:\Program Files (x86)\Lenovo\Lenovo Updates\PopToastProcess.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\Uninstall\uninstall.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfConfig.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfConnectorService.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfMsgBox.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfSysLogon.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfSysMetroWebLogon.exe
+C:\Program Files (x86)\Lenovo\Lenovo VeriFace Pro\VfSysWebLogon.exe
+C:\Program Files (x86)\Lenovo\Motion Control\Settings\lmcss.exe
+C:\Program Files (x86)\Lenovo\Motion Control\Settings\MotionControlUI.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PGService.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_Linux_Win.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_OSD.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_SDK_DevApp.vs11.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_Service_Launcher.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_SettingsApp.exe
+C:\Program Files (x86)\Lenovo\Motion Control\PG_Tray.exe
+C:\Program Files (x86)\Lenovo\Motion Control\WebcamSplitterServer.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Chs\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Cht\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Csy\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Dan\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Deu\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Ell\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Enu\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Esp\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Fin\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Fra\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Hun\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Ita\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Jpn\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Kor\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Nld\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Nor\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Plk\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Ptb\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Ptg\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Rus\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Sve\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Language\Trk\SecurityBrowser.exe
+C:\Program Files (x86)\Lenovo\Power2Go\MUITransfer\MUIStartMenu.exe
+C:\Program Files (x86)\Lenovo\Power2Go\OLRSubmission\OLRStateCheck.exe
+C:\Program Files (x86)\Lenovo\Power2Go\OLRSubmission\OLRSubmission.exe
+C:\Program Files (x86)\Lenovo\Power2Go\CLDMA.exe
+C:\Program Files (x86)\Lenovo\Power2Go\CLDrvChk.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Power2Go.exe
+C:\Program Files (x86)\Lenovo\Power2Go\Power2GoExpress.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\EvoParser\CLUpdater.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cinema\MCEPacifier\x64\MCEPacifier.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cinema\MCEPacifier\x86\MCEPacifier.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cinema\PDVDCM10Service.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cinema\PowerDVDCinema10.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cinema\TaskScheduler.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD Cox\PowerDVDCox10.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\Activate.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\CLDrvChk.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PDVD10Serv.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PDVDLaunchPolicy.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PowerDVD10.exe
+C:\Program Files (x86)\Lenovo\UserGuide\UserGuide.exe
+C:\Program Files (x86)\LIMBO\DirectX\DXSETUP.exe
+C:\Program Files (x86)\LIMBO\Desintalar.exe
+C:\Program Files (x86)\LIMBO\limbo.exe
+C:\Program Files (x86)\LIMBO\limbo_lang.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\firefox.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\iexplore.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\mbam-chameleon.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\mbam-killer.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\rundll32.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\svchost.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\windows.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Chameleon\Windows\winlogon.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\Plugins\fixdamage.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamdor.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbampt.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamresearch.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamscheduler.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamservice.exe
+C:\Program Files (x86)\Malwarebytes Anti-Malware\unins000.exe
+C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 4\Packages\EntityFramework.5.0.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 4\Packages\WebGrease.1.3.0\tools\WG.exe
+C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Packages\WebGrease.1.3.0\tools\WG.exe
+C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Stack 5\Packages\EntityFramework.6.1.1\tools\migrate.exe
+C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Stack 5\Packages\WebGrease.1.5.2\tools\WG.exe
+C:\Program Files (x86)\Microsoft Help Viewer\v2.1\HlpCtntMgr.exe
+C:\Program Files (x86)\Microsoft Help Viewer\v2.1\HlpViewer.exe
+C:\Program Files (x86)\Microsoft Help Viewer\v2.2\HlpCtntMgr.exe
+C:\Program Files (x86)\Microsoft Help Viewer\v2.2\HlpViewer.exe
+C:\Program Files (x86)\Microsoft Office\Office14\1033\ONELEV.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\ACCICONS.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\BCSSync.exe
+C:\Program Files (x86)\Microsoft Office\Office14\CLVIEW.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\CNFNOT32.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\excelcnv.exe
+C:\Program Files (x86)\Microsoft Office\Office14\GRAPH.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\GROOVE.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\GROOVEMN.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\IEContentService.exe
+C:\Program Files (x86)\Microsoft Office\Office14\INFOPATH.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSACCESS.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSOHTMED.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSOSYNC.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSOUC.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSPUB.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSQRY32.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSTORDB.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\MSTORE.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\NAMECONTROLSERVER.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\OIS.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\ONENOTE.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\ONENOTEM.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\POWERPNT.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\SCANPST.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\SELFCERT.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\SETLANG.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\VPREVIEW.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE
+C:\Program Files (x86)\Microsoft Office\Office14\Wordconv.exe
+C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0\Fsc.exe
+C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0\Fsi.exe
+C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0\FsiAnyCPU.exe
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.0\Design\vslshost.exe
+C:\Program Files (x86)\Microsoft SDKs\LightSwitch\v4.5\Design\vslshost.exe
+C:\Program Files (x86)\Microsoft SDKs\Microsoft Azure\Mobile Services\1.0\Packages\EntityFramework.6.1.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Tools\SlSvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\tsc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\aspnet_merge.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\StoreAdm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\WCA.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\WFC.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\x64\xsltc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\aspnet_merge.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\mage.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\mageui.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\mgmtclassgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\ResGen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\SqlMetal.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\StoreAdm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\SvcConfigEditor.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\SvcTraceViewer.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\WCA.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\WFC.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\WinRes.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\xsltc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\betest.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\vsdiagview.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\vshadow.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\vssagent.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\vstorcontrol.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\vsstools\vswriter.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\vsstools\betest.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\vsstools\vshadow.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\vsstools\vssagent.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\vsstools\vstorcontrol.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\vsstools\vswriter.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\Bind.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\Cert2Spc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\CertMgr.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\ctrpp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\ECMangen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\genmanifest.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\isXPS.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\MakeCat.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\makecert.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\MC.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\midl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\midlc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\mt.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\MUIRCT.EXE
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\RC.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\ReBase.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\TraceFmt.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\TracePdb.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\Uuidgen.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\x64\WSUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\apatch.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\Bind.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\Cert2Spc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\CertMgr.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\ctrpp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\ECMangen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\EspExe.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\ExtidGen.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\genmanifest.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\isXPS.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MakeCat.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\makecert.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MC.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\midl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\midlc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiCert.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiDb.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiFiler.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiInfo.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiMerg.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiMsp.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiTran.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MsiZap.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\mt.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\MUIRCT.EXE
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\pvk2pfx.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\RC.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\ReBase.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\signtool.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\TB3x.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\tracepdb.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\tracewpp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\uicc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\Uuidgen.Exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\WSUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\Tracker.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\x64\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\aspnet_intern.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\aspnet_merge.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\mage.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\mageui.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\mgmtclassgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\ResGen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\SecAnnotate.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\SqlMetal.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\StoreAdm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\SvcConfigEditor.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\SvcTraceViewer.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\Tracker.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\WCA.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\WFC.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\WinMDExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\WinRes.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\xsltc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\Tracker.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\al.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\aspnet_intern.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\aspnet_merge.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\clrver.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\CorFlags.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\FUSLOGVW.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\gacutil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\ildasm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\mage.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\mageui.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\mgmtclassgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\PEVerify.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\ResGen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\SecAnnotate.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\sn.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\SqlMetal.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\StoreAdm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\SvcConfigEditor.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\SvcTraceViewer.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\Tracker.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\WCA.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\WFC.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\WinMDExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\WinRes.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\xsltc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\Bootstrapper\Packages\SqlExpress2008R2\SqlExpressChk.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\Bootstrapper\Packages\SqlExpress2012\SqlExpressChk.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\AETGenerator\AetGenerator.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\AppDeploy\MdilXapCompilev8.0\crossgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\AppDeploy\MdilXapCompilev8.0\MDILXAPCompile.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\AppDeploy\AppDeploy.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\AppDeploy\AppDeployCmd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\IsolatedStorageExplorerTool\ISETool.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\MDILXAPCompile\crossgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\MDILXAPCompile\MDILXAPCompile.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\Phone Registration\PhoneReg.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\PowerTools\Support\ARM\WpToolsSvc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\PowerTools\Support\ARM\WpWpr.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\PowerTools\Support\x86\WpToolsSvc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\PowerTools\Support\x86\WpWpr.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\PowerTools\PwTools.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\UpdatePack\Support\ARM\DuTrigger.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\UpdatePack\UpdatePack.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\XapSignTool\XapSignTool.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Tools\SlSvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\WindowsPhoneApp\v8.1\Tools\MDILXAPCompile\crossgen.exe
+C:\Program Files (x86)\Microsoft SDKs\WindowsPhoneApp\v8.1\Tools\MDILXAPCompile\MDILXAPCompile.exe
+C:\Program Files (x86)\Microsoft Silverlight\5.1.20513.0\agcp.exe
+C:\Program Files (x86)\Microsoft Silverlight\5.1.20513.0\coregen.exe
+C:\Program Files (x86)\Microsoft Silverlight\5.1.20513.0\Silverlight.Configuration.exe
+C:\Program Files (x86)\Microsoft Silverlight\sllauncher.exe
+C:\Program Files (x86)\Microsoft SQL Server\110\DAC\bin\DacUnpack.exe
+C:\Program Files (x86)\Microsoft SQL Server\110\DAC\bin\SqlPackage.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\mspdbsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\guidgen.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\makehm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\vcupgrade.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\ml64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\armasm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_arm\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cvtres.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\ml.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\nmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\undname.exe
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Blend\Blend.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Blend\Microsoft.Expression.WebServer.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Blend\XDesProc.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgentLauncher.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\WPEmulator\8.1\InstallPhoneEmulator81.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\PrepWinACK.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\ActivateApplication.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.clr20.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.clr20.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\WebClient\Language Service\jsgen.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\VsStandardCollector.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\NuGet Packages\EntityFramework.5.0.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\NuGet Packages\EntityFramework.6.1.1\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\SharePoint\vssphost4.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\SharePoint\vssphost5.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\VsGraphics\vsgraphics.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\VsGraphics\VsGraphicsDesktopEngine.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Web Tools\Page Inspector\WebBrowserLauncher.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Web Tools\Page Inspector\WebBrowserServer.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SharePoint.SharePointConfigurator.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SharePoint.TestServiceHostProxy.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\NEInstX64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\Appx\AppxDebugSysTray.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x64\msvsmon.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x64\TailoredDeploy.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x64\VsDebugLaunchNotify.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x64\VsGraphicsRemoteEngine.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x86\msvsmon.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x86\TailoredDeploy.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x86\VsDebugLaunchNotify.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Remote Debugger\x86\VsGraphicsRemoteEngine.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\BuildNotificationApp.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\DDConfigCA.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PerfWatson2.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Publicize.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent32_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent32_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTAgent_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTDCAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\QTDCAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\StorePID.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\T4VSHostProcess.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TailoredDeploy.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TCM.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TF.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TfsAdmin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TFSBuild.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TFSDeleteProject.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TFSLabConfig.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\TFSSecurity.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\UserControlTestContainer.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vb7to8.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vsDiffMerge.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VsGd.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vshost-clr2.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vshost.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vshost32-clr2.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vshost32.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\vsn.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSTestConfig.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSTST-FileConverter.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSWebHandler.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\WcfSvcHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\WcfTestClient.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\witadmin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\XDesProc.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\errlook.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\guidgen.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\makehm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\spyxx.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\spyxx_amd64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\vcupgrade.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\samples\dotfuscated\HelloWorld.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\samples\HelloWorld.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\dotfuscator.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\tampertester.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\Setups\vs_profiler_x64_enu.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\Setups\vs_profiler_x86_enu.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\x64\mspdbsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\x64\vsinstr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\x64\VSPerfCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\x64\VSPerfMon.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\x64\VSPerfSrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\mspdbsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\vsinstr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerf.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerfASPNetCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerfCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerfMon.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerfReport.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerfSrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\bscmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\cvtres.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\ml64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\mspdbsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\nmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\pgocvt.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\pgosweep.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\undname.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\armasm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\ml.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\arm\pgosweep.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\ml64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\armasm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_arm\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cvtres.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\dumpbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\editbin.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\lib.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\ml.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\nmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\pgocvt.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\pgomgr.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\pgosweep.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\undname.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\redist\1033\vcredist_arm.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\redist\1033\vcredist_x64.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\redist\1033\vcredist_x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\DDConfigCA.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\PerfWatson2.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\StorePID.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\T4VSHostProcess.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\UserControlTestContainer.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\vb7to8.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VsDebugWERHelper.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\vsdiag_regwcf.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VSIXInstaller.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VSLaunchBrowser.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\vsn.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VSWebHandler.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\XDesProc.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Packages\Debugger\X64\msvsmon.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Packages\Debugger\X64\TailoredDeploy.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Packages\Debugger\X64\VsDebugWERHelper.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+C:\Program Files (x86)\Microsoft WCF Data Services\5.6\bin\tools\DataSvcUtil.exe
+C:\Program Files (x86)\Microsoft Web Tools\Packages\EntityFramework.6.0.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Web Tools\Packages\EntityFramework.6.1.1\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Web Tools\Packages\WebGrease.1.1.0\tools\WG.exe
+C:\Program Files (x86)\Microsoft Web Tools\Packages\WebGrease.1.5.2\tools\WG.exe
+C:\Program Files (x86)\Microsoft XDE\8.1\AnyCpuStart.exe
+C:\Program Files (x86)\Microsoft XDE\8.1\XDE.exe
+C:\Program Files (x86)\Microsoft XDE\8.1\XdeCleanup.exe
+C:\Program Files (x86)\Mobipocket.com\Mobipocket Reader\pdf2xml.exe
+C:\Program Files (x86)\Mobipocket.com\Mobipocket Reader\reader.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\csc.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\MSBuild.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\MSBuildTaskHost.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\Tracker.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\vbc.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\csc.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\MSBuild.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\MSBuildTaskHost.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\Tracker.exe
+C:\Program Files (x86)\MSBuild\12.0\Bin\vbc.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\csc.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\MSBuild.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\MSBuildTaskHost.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\Tracker.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\vbc.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\amd64\VBCSCompiler.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\csc.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\MSBuild.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\MSBuildTaskHost.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\Tracker.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\vbc.exe
+C:\Program Files (x86)\MSBuild\14.0\Bin\VBCSCompiler.exe
+C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\AppxPackage\PDBCopy.exe
+C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\TeamTest\Publicize.exe
+C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstaller.exe
+C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstallerConsole.exe
+C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstallerLauncher.exe
+C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstallerUpdater.exe
+C:\Program Files (x86)\Notepad++\updater\gpup.exe
+C:\Program Files (x86)\Notepad++\updater\GUP.exe
+C:\Program Files (x86)\Notepad++\notepad++.exe
+C:\Program Files (x86)\Notepad++\uninstall.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\NvStereoUtilityOGL.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvStInst.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvstlink.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvstreg.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvsttest.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvstview.exe
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\NVStWiz.exe
+C:\Program Files (x86)\NVIDIA Corporation\LED Visualizer\NvLedServiceHost.exe
+C:\Program Files (x86)\NVIDIA Corporation\LED Visualizer\NvLedVisualizer.exe
+C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe
+C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\7z.exe
+C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\GFExperience.exe
+C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\LaunchGFExperience.exe
+C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe
+C:\Program Files (x86)\OpenAL\ol.exe
+C:\Program Files (x86)\Oracle\JavaFX Scene Builder 2.0\JavaFX Scene Builder 2.0.exe
+C:\Program Files (x86)\R.G. Mechanics\Heroes of Might & Magic III - HD Edition\HOMM3 2.0.exe
+C:\Program Files (x86)\R.G. Mechanics\Heroes of Might & Magic III - HD Edition\HOMM3Launcher.exe
+C:\Program Files (x86)\R.G. Mechanics\Heroes of Might & Magic III - HD Edition\mapEditor.exe
+C:\Program Files (x86)\Realtek\Audio\Drivers\RtlUpd64.exe
+C:\Program Files (x86)\Realtek\Audio\InstallShield\Rtkupd64.exe
+C:\Program Files (x86)\Realtek\NICDRV_8169\RTINSTALLER64.EXE
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\Driver\Rtkfilter\SetVistaDrv64.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\a2dp_sink_dlg.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\AvrcpService.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\BPPClient.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\BTDevMgr.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\BtSendTo.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\BTServer.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\BT_Setup.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\ControlUI.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\DPInst.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\IEProxy.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\LeControlUI.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\ProximityUI.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\RemCam.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\RtkBleServ.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\RtkITunesPlugin.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\SetVistaDrv64.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\SkypePlugin.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\Sync.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\vcredist2012_x64.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\vcredist32.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\vcredist64.exe
+C:\Program Files (x86)\Realtek\Realtek Bluetooth\W8BleUI.exe
+C:\Program Files (x86)\Realtek\Realtek Card Reader\revcon32.exe
+C:\Program Files (x86)\Realtek\Realtek Card Reader\revcon64.exe
+C:\Program Files (x86)\Realtek\Realtek Card Reader\RIconMan.exe
+C:\Program Files (x86)\Realtek\Realtek Card Reader\Rmb.exe
+C:\Program Files (x86)\Realtek\Realtek Card Reader\SetEHCIKey.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\revcon.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\revcon64.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\RsCap.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\RtCamU64.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\RtDelPro.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\RTFTrack.exe
+C:\Program Files (x86)\Realtek\Realtek PC Camera\RtsCM64.exe
+C:\Program Files (x86)\REALTEK PCIE Wireless LAN Driver\Driver\SetDrv64.exe
+C:\Program Files (x86)\REALTEK PCIE Wireless LAN Driver\Driver\SetVistaDrv64.exe
+C:\Program Files (x86)\Sony\Media Go\AutoMagicWM.exe
+C:\Program Files (x86)\Sony\Media Go\CreateMinidumpx86.exe
+C:\Program Files (x86)\Sony\Media Go\ErrorReportClient.exe
+C:\Program Files (x86)\Sony\Media Go\ErrorReportLauncher.exe
+C:\Program Files (x86)\Sony\Media Go\MediaGo.exe
+C:\Program Files (x86)\Sony\Media Go\mglyrics.exe
+C:\Program Files (x86)\Sony\Media Go\PRSConfig.exe
+C:\Program Files (x86)\Sony Media Go Install\CreateMinidumpx86.exe
+C:\Program Files (x86)\Sony Media Go Install\DXSETUP.exe
+C:\Program Files (x86)\Sony Media Go Install\ErrorReportClient.exe
+C:\Program Files (x86)\Sony Media Go Install\setup.exe
+C:\Program Files (x86)\Sony Media Go Install\vcredist2_x86.exe
+C:\Program Files (x86)\Sony Media Go Install\vcredist_2013_x86.exe
+C:\Program Files (x86)\Sony Media Go Install\vcredist_x86.exe
+C:\Program Files (x86)\StarCraft II\Support\BlizzardError.exe
+C:\Program Files (x86)\StarCraft II\Support\PrePopulateCache.exe
+C:\Program Files (x86)\StarCraft II\Support\SC2Editor.exe
+C:\Program Files (x86)\StarCraft II\Support\SC2Switcher.exe
+C:\Program Files (x86)\StarCraft II\Support64\SC2Editor_x64.exe
+C:\Program Files (x86)\StarCraft II\Support64\SC2Switcher_x64.exe
+C:\Program Files (x86)\StarCraft II\Versions\Base38996\SC2.exe
+C:\Program Files (x86)\StarCraft II\Versions\Base38996\SC2_x64.exe
+C:\Program Files (x86)\StarCraft II\StarCraft II Editor.exe
+C:\Program Files (x86)\StarCraft II\StarCraft II Editor_x64.exe
+C:\Program Files (x86)\StarCraft II\StarCraft II Offline.exe
+C:\Program Files (x86)\StarCraft II\StarCraft II.exe
+C:\Program Files (x86)\StarCraft II\unins000.exe
+C:\Program Files (x86)\Tibia\Patch.exe
+C:\Program Files (x86)\Tibia\Tibia.exe
+C:\Program Files (x86)\Tibia\unins000.exe
+C:\Program Files (x86)\VideoLAN\VLC\uninstall.exe
+C:\Program Files (x86)\VideoLAN\VLC\vlc-cache-gen.exe
+C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\aitstatic.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\appcert.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\appcertui.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\fusagent.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\fussvc.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\microsoft.windows.softwarelogo.appxlauncher.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\microsoft.windows.softwarelogo.taskengine.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\rmlogotest.exe
+C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\sessionlistenserver.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\AccScope\AccScope.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\AppPerfAnalyzer\appperfanalyzer_js.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\accevent.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\dxcapsviewer.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\inspect.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\mftrace.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\signtool.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\topoedit.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\vsgraphicsdesktopengine.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\arm\wstraceutil.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\AccScope\accscope.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\AppPerfAnalyzer\appperfanalyzer_js.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\accevent.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\adpcmencode.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\betest.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\bulkmetadatapackagingwizard.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\cert2spc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\certmgr.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\computerhardwareids.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\convert-moftoprovider.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\ctrpp.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\DeviceMetadataWizard.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\dxcapsviewer.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\ecmangen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\espexe.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\extidgen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\filetypeverifier.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\filtdump.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\filtreg.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\ftquery.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\fxc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\genmanifest.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\graphedt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\ifilttst.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\inspect.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\isxps.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\makeappx.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\makecat.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\makecert.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\makepri.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\mc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\mdmerge.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\mftrace.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\midl.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\midlc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\midlrt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\mt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\muirct.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\oleview.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\pktextract.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\pvk2pfx.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\rc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\signtool.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\TB3x.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\topoedit.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\tracefmt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\tracelog.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\tracepdb.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\tracewpp.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\uuidgen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vsgraphicsdesktopengine.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vshadow.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vssagent.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vsstrace.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vstorcontrol.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\vswriter.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\winmdidl.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wsddebug_client.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wsddebug_host.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wstracedump.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wstraceutil.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\wsutil.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\xpsanalyzer.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x64\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\AccScope\AccScope.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\AppPerfAnalyzer\appperfanalyzer_js.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\accevent.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\adpcmencode.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\betest.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\bulkmetadatapackagingwizard.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\cert2spc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\certmgr.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\computerhardwareids.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\convert-moftoprovider.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\ctrpp.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\DeviceMetadataWizard.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\dxcapsviewer.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\ecmangen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\espexe.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\extidgen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\filetypeverifier.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\filtdump.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\filtreg.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\ftquery.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\gc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\GDFMaker.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\genmanifest.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\graphedt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\ifilttst.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\inspect.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\isxps.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\makeappx.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\makecat.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\makecert.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\makepri.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mdmerge.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mftrace.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midl.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midlc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midlrt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiCert.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiDb.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiFiler.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiInfo.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\Msimerg.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiMsp.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\MsiTran.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\muirct.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\oleview.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\pktextract.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\pvk2pfx.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\signtool.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\TB3x.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\topoedit.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\tracefmt.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\tracelog.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\tracepdb.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\tracewpp.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\uicc.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\uuidgen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vsgraphicsdesktopengine.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vshadow.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vssagent.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vsstrace.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vstorcontrol.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\vswriter.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\WiLogUtl.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\winmdidl.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wsddebug_client.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wsddebug_host.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wstracedump.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wstraceutil.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\wsutil.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\xpsanalyzer.exe
+C:\Program Files (x86)\Windows Kits\8.1\bin\x86\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\x64\Te.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\x64\Te.ManagedHost.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\x64\Te.ProcessHost.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\x64\Wex.Services.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\Te.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\Te.ManagedHost.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\Te.ProcessHost.exe
+C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\Wex.Services.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\wpa.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\wpaexporter.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\wpr.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\WPRUI.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\xbootmgr.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\xbootmgrsleep.exe
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\xperf.exe
+C:\Program Files (x86)\Windows Mail\wab.exe
+C:\Program Files (x86)\Windows Mail\wabmig.exe
+C:\Program Files (x86)\Windows Media Player\setup_wm.exe
+C:\Program Files (x86)\Windows Media Player\wmlaunch.exe
+C:\Program Files (x86)\Windows Media Player\wmpconfig.exe
+C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+C:\Program Files (x86)\Windows Media Player\wmprph.exe
+C:\Program Files (x86)\Windows Media Player\wmpshare.exe
+C:\Program Files (x86)\Windows NT\Accessories\wordpad.exe
+C:\Program Files (x86)\Windows Photo Viewer\ImagingDevices.exe
+C:\Program Files (x86)\WinRAR\Rar.exe
+C:\Program Files (x86)\WinRAR\RarExtLoader.exe
+C:\Program Files (x86)\WinRAR\Uninstall.exe
+C:\Program Files (x86)\WinRAR\UnRAR.exe
+C:\Program Files (x86)\WinRAR\WinRAR.exe
+C:\Program Files (x86)\Workflow Manager Tools\1.0\Microsoft.Workflow.TestServiceHost.exe
+C:\Program Files (x86)\Workflow Manager Tools\1.0\Microsoft.Workflow.VisualStudio.Configurator.exe

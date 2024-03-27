@@ -1,0 +1,9 @@
+BaseName : League of Legends.exe
+BaseName : limbo.exe
+BaseName : Serious Sam 3 - BFE
+BaseName : Sid Meiers Civilization Beyond Earth
+BaseName : Star Wars - Empire At War - Forces of Corruption
+BaseName : Star Wars - Empire At War
+BaseName : Tibia
+BaseName : Total War. Rome II - Emperor Edition
+BaseName : StarCraft II Offline.exe

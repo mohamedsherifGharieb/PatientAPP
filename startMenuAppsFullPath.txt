@@ -1,0 +1,188 @@
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7 Sticky Notes\7 Sticky Notes.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7 Sticky Notes\Uninstall 7 Sticky Notes.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Windows Journal.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Calculator.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sound Recorder.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sticky Notes.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\XPS Viewer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Firewall with Advanced Security.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell (x86).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE (x86).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio\Android Studio.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Atmel Studio 7.0\Atmel Studio 7.0 Command Prompt.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Atmel Studio 7.0\Atmel Studio 7.0.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Autodesk Maya 2016\Autodesk Maya 2016.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Autodesk Maya 2016\FCheck.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Autodesk Maya 2016\License Transfer Utility.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Avira\Antivirus\Avira Antivirus Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Avira\Antivirus\Avira on the Internet.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Avira\Antivirus\Start Avira Antivirus.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Avira\Avira Launcher.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\by.xatab\????????? Sid Meiers Civilization Beyond Earth.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\by.xatab\??????? Sid Meiers Civilization Beyond Earth.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CDisplayEx\CDisplayEx.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CDisplayEx\Uninstall CDisplayEx.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CyberLink MediaStory\CyberLink MediaStory.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CyberLink PhotoDirector 3\CyberLink PhotoDirector 3.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CyberLink PowerDirector 10\PowerDirector 10.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\DAEMON Tools Lite\DAEMON Tools Lite.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\DAEMON Tools Lite\SPTD Setup.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Dolby\Dolby Digital Plus.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EPUB File Reader\EPUB File Reader.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EPUB File Reader\Uninstall EPUB File Reader.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git CMD.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git GUI.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Intel\Updates\Intel(R) ME FW Recovery Agent.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\Grabber Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\IDM Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\Internet Download Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\license.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\TUTORIALS.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\Uninstall IDM.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\About Java.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Check For Updates.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Configure Java.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Get Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Visit Java.com.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java Development Kit\Java Mission Control.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java Development Kit\Reference Documentation.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JavaFX Scene Builder\JavaFX Scene Builder 2.0.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JetBrains\IntelliJ IDEA Community Edition 15.0.3.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo Motion Control\Lenovo Motion Control.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo Settings\Lenovo Settings.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo Smart Voice\Lenovo Smart Voice.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo Smart Voice\Lenovo Smart VoiceUninstall.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo Updates\Lenovo Updates.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Lenovo VeriFace Pro\Lenovo VeriFace Pro.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\OneKey Recovery\OneKey Recovery.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Power2Go\Power2Go Express.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Power2Go\Power2Go Online Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Power2Go\Power2Go.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\Power2Go\Readme.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\PowerDVD 10\Lenovo PowerDVD 10.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Lenovo\User Manuals.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\LIMBO\Desintalar LIMBO.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Tools\Malwarebytes Anti-Malware Chameleon.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Malwarebytes Anti-Malware Notifications.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Malwarebytes Anti-Malware.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Uninstall Malwarebytes Anti-Malware.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MATLAB\R2013b\MATLAB R2013b.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MATLAB\R2013b\Polyspace Bug Finder R2013b.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MATLAB\R2013b\Polyspace Code Prover R2013b.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Expression\Microsoft Expression Blend SDK\Expression Blend SDK Documentation.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 2010 Tools\Digital Certificate for VBA Projects.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 2010 Tools\Microsoft Clip Organizer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 2010 Tools\Microsoft Office 2010 Language Preferences.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 2010 Tools\Microsoft Office 2010 Upload Center.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 2010 Tools\Microsoft Office Picture Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Access 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Excel 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft InfoPath Designer 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft InfoPath Filler 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft OneNote 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Outlook 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft PowerPoint 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Publisher 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft SharePoint Workspace 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Word 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Silverlight\Microsoft Silverlight.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Silverlight 5 SDK\Welcome.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2012\Visual Studio Tools\VS2012 ARM Cross Tools Command Prompt.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2012\Visual Studio Tools\VS2012 x64 Cross Tools Command Prompt.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2012\Visual Studio Tools\VS2012 x86 Native Tools Command Prompt.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\MySQL Installer - Community\MySQL Installer - Community.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Notepad++\Notepad++.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\GeForce Experience.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Realtek\Realtek HD Audio Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SharePoint\Microsoft SharePoint Workspace 2010.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sony\Media Go\Media Go.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StageLight\StageLight.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Documents\Reference Card.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Documents\Star Wars - Empire at War - Forces of Corruption Manual.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Documents\Star Wars - Empire at War Manual.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Documents\Tech Tree.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Documents\Troubleshooting Guide.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Language Settings.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Star Wars - Empire At War - Forces of Corruption.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Star Wars - Empire At War.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Star Wars - Empire At War Gold [GOG.com]\Uninstall STAR WARS� - Empire At WarT Gold.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StarCraft II\StarCraft II.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StarCraft II\Uninstall StarCraft II.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Default Programs.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows Easy Transfer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows PowerShell.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tibia\Tibia Website.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tibia\Tibia.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tibia\Uninstall Tibia.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\Documentation.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\Release Notes.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VideoLAN Website.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player - reset preferences and cache files.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player skinned.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2013\Blend for Visual Studio 2013.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2013\Visual Studio 2013.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2013\Visual Studio Tools.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Application Verifier (X64)\Application Verifier (X64).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Application Verifier (X64)\Application Verifier Help.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Application Verifier (X86)\Application Verifier (WOW).lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows App Certification Kit\Windows App Cert Kit.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Performance Toolkit\Windows Performance Analyzer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Performance Toolkit\Windows Performance Recorder.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Documentation for Desktop Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Documentation for Windows Store Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Samples for Desktop Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Samples for Windows Store Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Tools for Desktop Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Tools for Windows Store Apps.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Kits\Windows Software Development Kit\Windows Software Development Kit.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Phone SDK 8.1\Windows Phone Application Deployment 8.1.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Phone SDK 8.1\Windows Phone Developer Power Tools 8.1.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Phone SDK 8.1\Windows Phone Developer Registration 8.1.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP\Uninstall XAMPP.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP\XAMPP Control Panel.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP\XAMPP htdocs folder.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Application Manager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Photoshop CC 2015.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Reader XI.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Camera.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Desktop.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\FileManager.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Immersive Control Panel.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Intel(R) HD Graphics Control Panel.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Magic Transfer.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MATLAB R2013b.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PhotosApp.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Search.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartVoiceToast.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sublime Text 2.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Store.lnk

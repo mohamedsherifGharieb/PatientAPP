@@ -1,0 +1,1123 @@
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\CEPHtmlEngine\CEPHtmlEngine.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\DynamicLinkMediaServer\32\Adobe QT32 Server.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\DynamicLinkMediaServer\32\dynamiclinkmanager.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\DynamicLinkMediaServer\32\ImporterREDServer.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\DynamicLinkMediaServer\amecommand.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\DynamicLinkMediaServer\dynamiclinkmediaserver.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Linguistics\UserDictionaryMigrationTool\UDMT.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Spaces\Adobe Spaces Helper.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Droplet Template.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\AGF3DPrinterDriver.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\convert.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\LogTransport2.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\node.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\PhotoshopPrefsManager.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\pngquant.exe
+C:\Program Files\Adobe\Adobe Photoshop CC 2015\sniffer.exe
+C:\Program Files\Android\Android Studio\bin\fsnotifier.exe
+C:\Program Files\Android\Android Studio\bin\restarter.exe
+C:\Program Files\Android\Android Studio\bin\runnerw.exe
+C:\Program Files\Android\Android Studio\bin\studio.exe
+C:\Program Files\Android\Android Studio\bin\studio64.exe
+C:\Program Files\Android\Android Studio\bin\vistalauncher.exe
+C:\Program Files\Android\Android Studio\lib\libpty\win\x86\winpty-agent.exe
+C:\Program Files\Android\Android Studio\lib\libpty\win\x86_64\cyglaunch.exe
+C:\Program Files\Android\Android Studio\lib\libpty\win\x86_64\winpty-agent.exe
+C:\Program Files\Android\Android Studio\lib\libpty\win\xp\winpty-agent.exe
+C:\Program Files\Android\Android Studio\uninstall.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\bin\python.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-10.0-amd64.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-10.0.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-6.0.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-7.1.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-8.0.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-9.0-amd64.exe
+C:\Program Files\Blender Foundation\Blender\2.76\python\lib\distutils\command\wininst-9.0.exe
+C:\Program Files\Blender Foundation\Blender\blender-app.exe
+C:\Program Files\Blender Foundation\Blender\blender.exe
+C:\Program Files\Blender Foundation\Blender\blenderplayer.exe
+C:\Program Files\CDisplayEx\CDisplayEx.exe
+C:\Program Files\CDisplayEx\pdfreader.exe
+C:\Program Files\CDisplayEx\unins000.exe
+C:\Program Files\Common Files\Lenovo\Magic Transfer\x64\MagicTransferTESHelper.exe
+C:\Program Files\Common Files\Lenovo\Magic Transfer\x86\MagicTransferTESHelper.exe
+C:\Program Files\Common Files\microsoft shared\ink\FlickLearningWizard.exe
+C:\Program Files\Common Files\microsoft shared\ink\InputPersonalization.exe
+C:\Program Files\Common Files\microsoft shared\ink\mip.exe
+C:\Program Files\Common Files\microsoft shared\ink\ShapeCollector.exe
+C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+C:\Program Files\Common Files\microsoft shared\MSInfo\msinfo32.exe
+C:\Program Files\Common Files\microsoft shared\OFFICE14\MSOXMLED.EXE
+C:\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE
+C:\Program Files\Common Files\microsoft shared\Team Foundation Server\12.0\LabManagement\TestAgentInstaller.exe
+C:\Program Files\Common Files\microsoft shared\Team Foundation Server\12.0\TFSFieldMapping.exe
+C:\Program Files\Common Files\microsoft shared\Team Foundation Server\12.0\TfsNop.exe
+C:\Program Files\Common Files\microsoft shared\Team Foundation Server\12.0\TfsProtocolHandler.exe
+C:\Program Files\Common Files\microsoft shared\Team Foundation Server\12.0\TfsServiceHost.exe
+C:\Program Files\Common Files\microsoft shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe
+C:\Program Files\Common Files\microsoft shared\VSTO\10.0\VSTOInstaller.exe
+C:\Program Files\Common Files\microsoft shared\WF\amd64\WorkflowDebugHost.exe
+C:\Program Files\CyberLink\PowerDirector10\BigBang\CLUpdater.exe
+C:\Program Files\CyberLink\PowerDirector10\Boomerang\Boomerang.exe
+C:\Program Files\CyberLink\PowerDirector10\MUITransfer\MUIStartMenu.exe
+C:\Program Files\CyberLink\PowerDirector10\MUITransfer\MUIStartMenuX64.exe
+C:\Program Files\CyberLink\PowerDirector10\OLRSubmission\OLRStateCheck.exe
+C:\Program Files\CyberLink\PowerDirector10\OLRSubmission\OLRSubmission.exe
+C:\Program Files\CyberLink\PowerDirector10\PDR32Agent\PDR32Agent.exe
+C:\Program Files\CyberLink\PowerDirector10\runtime\encoderPack\CLQTKernelClient32.exe
+C:\Program Files\CyberLink\PowerDirector10\Simkeys\SimEditor.exe
+C:\Program Files\CyberLink\PowerDirector10\CES_AudioCacheAgent.exe
+C:\Program Files\CyberLink\PowerDirector10\CES_CacheAgent.exe
+C:\Program Files\CyberLink\PowerDirector10\CES_IPCAgent.exe
+C:\Program Files\CyberLink\PowerDirector10\MotionMenuGenerator.exe
+C:\Program Files\CyberLink\PowerDirector10\PDHanumanSvr.exe
+C:\Program Files\CyberLink\PowerDirector10\PDR10.exe
+C:\Program Files\CyberLink\PowerDirector10\UACAgent.exe
+C:\Program Files\CyberLink\Shared files\RichVideo64.exe
+C:\Program Files\CyberLink\Shared files\richvideoinstall.exe
+C:\Program Files\CyberLink\Shared files\richvideouninstall.exe
+C:\Program Files\DIFX\8C657473004ED4CD\DPInst.exe
+C:\Program Files\Dolby Digital Plus\ddpe.exe
+C:\Program Files\Elantech\ETDAniConf.exe
+C:\Program Files\Elantech\ETDCtrl.exe
+C:\Program Files\Elantech\ETDCtrlHelper.exe
+C:\Program Files\Elantech\ETDDeviceInformation.exe
+C:\Program Files\Elantech\ETDIntelligent.exe
+C:\Program Files\Elantech\ETDService.exe
+C:\Program Files\Elantech\ETDUn_inst.exe
+C:\Program Files\Elantech\Lenovo.exe
+C:\Program Files\Elantech\Lenovo_Win8.exe
+C:\Program Files\Elantech\TouchpadEnableDisable.exe
+C:\Program Files\Git\bin\bash.exe
+C:\Program Files\Git\bin\git.exe
+C:\Program Files\Git\bin\sh.exe
+C:\Program Files\Git\cmd\git-gui.exe
+C:\Program Files\Git\cmd\git.exe
+C:\Program Files\Git\cmd\gitk.exe
+C:\Program Files\Git\mingw64\bin\bunzip2.exe
+C:\Program Files\Git\mingw64\bin\bzcat.exe
+C:\Program Files\Git\mingw64\bin\bzip2.exe
+C:\Program Files\Git\mingw64\bin\bzip2recover.exe
+C:\Program Files\Git\mingw64\bin\certtool.exe
+C:\Program Files\Git\mingw64\bin\connect.exe
+C:\Program Files\Git\mingw64\bin\create-shortcut.exe
+C:\Program Files\Git\mingw64\bin\curl.exe
+C:\Program Files\Git\mingw64\bin\edit_test.exe
+C:\Program Files\Git\mingw64\bin\edit_test_dll.exe
+C:\Program Files\Git\mingw64\bin\envsubst.exe
+C:\Program Files\Git\mingw64\bin\gettext.exe
+C:\Program Files\Git\mingw64\bin\git-receive-pack.exe
+C:\Program Files\Git\mingw64\bin\git-upload-archive.exe
+C:\Program Files\Git\mingw64\bin\git-upload-pack.exe
+C:\Program Files\Git\mingw64\bin\git.exe
+C:\Program Files\Git\mingw64\bin\openssl.exe
+C:\Program Files\Git\mingw64\bin\p11-kit.exe
+C:\Program Files\Git\mingw64\bin\p11tool.exe
+C:\Program Files\Git\mingw64\bin\pkcs1-conv.exe
+C:\Program Files\Git\mingw64\bin\psktool.exe
+C:\Program Files\Git\mingw64\bin\recode-sr-latin.exe
+C:\Program Files\Git\mingw64\bin\sexp-conv.exe
+C:\Program Files\Git\mingw64\bin\srptool.exe
+C:\Program Files\Git\mingw64\bin\tclsh.exe
+C:\Program Files\Git\mingw64\bin\tclsh86.exe
+C:\Program Files\Git\mingw64\bin\trust.exe
+C:\Program Files\Git\mingw64\bin\wish.exe
+C:\Program Files\Git\mingw64\bin\wish86.exe
+C:\Program Files\Git\mingw64\bin\x86_64-w64-mingw32-agrep.exe
+C:\Program Files\Git\mingw64\bin\xmlwf.exe
+C:\Program Files\Git\mingw64\lib\p11-kit\p11-kit-remote.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-add.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-annotate.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-apply.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-archive.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-bisect--helper.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-blame.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-branch.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-bundle.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-cat-file.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-check-attr.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-check-ignore.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-check-mailmap.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-check-ref-format.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-checkout-index.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-checkout.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-cherry-pick.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-cherry.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-clean.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-clone.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-column.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-commit-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-commit.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-config.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-count-objects.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-credential-store.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-credential-wincred.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-credential.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-daemon.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-describe.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-diff-files.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-diff-index.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-diff-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-diff.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fast-export.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fast-import.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fetch-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fetch.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fmt-merge-msg.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-for-each-ref.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-format-patch.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fsck-objects.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-fsck.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-gc.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-get-tar-commit-id.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-grep.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-hash-object.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-help.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-http-backend.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-http-fetch.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-http-push.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-imap-send.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-index-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-init-db.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-init.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-interpret-trailers.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-log.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-ls-files.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-ls-remote.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-ls-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-mailinfo.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-mailsplit.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-base.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-file.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-index.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-ours.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-recursive.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-subtree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-merge.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-mktag.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-mktree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-mv.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-name-rev.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-notes.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-pack-objects.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-pack-redundant.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-pack-refs.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-patch-id.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-prune-packed.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-prune.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-push.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-read-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-receive-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-reflog.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-ext.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-fd.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-ftp.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-ftps.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-http.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote-https.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-remote.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-repack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-replace.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-rerere.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-reset.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-rev-list.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-rev-parse.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-revert.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-rm.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-send-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-sh-i18n--envsubst.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-shortlog.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-show-branch.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-show-index.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-show-ref.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-show.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-stage.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-status.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-stripspace.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-symbolic-ref.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-tag.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-unpack-file.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-unpack-objects.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-update-index.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-update-ref.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-update-server-info.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-upload-archive.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-upload-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-var.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-verify-commit.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-verify-pack.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-verify-tag.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-whatchanged.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-worktree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git-write-tree.exe
+C:\Program Files\Git\mingw64\libexec\git-core\git.exe
+C:\Program Files\Git\mingw64\share\git\compat-bash.exe
+C:\Program Files\Git\usr\bin\arch.exe
+C:\Program Files\Git\usr\bin\awk.exe
+C:\Program Files\Git\usr\bin\base64.exe
+C:\Program Files\Git\usr\bin\basename.exe
+C:\Program Files\Git\usr\bin\bash.exe
+C:\Program Files\Git\usr\bin\bunzip2.exe
+C:\Program Files\Git\usr\bin\bzcat.exe
+C:\Program Files\Git\usr\bin\bzip2.exe
+C:\Program Files\Git\usr\bin\bzip2recover.exe
+C:\Program Files\Git\usr\bin\captoinfo.exe
+C:\Program Files\Git\usr\bin\cat.exe
+C:\Program Files\Git\usr\bin\chcon.exe
+C:\Program Files\Git\usr\bin\chgrp.exe
+C:\Program Files\Git\usr\bin\chmod.exe
+C:\Program Files\Git\usr\bin\chown.exe
+C:\Program Files\Git\usr\bin\chroot.exe
+C:\Program Files\Git\usr\bin\cksum.exe
+C:\Program Files\Git\usr\bin\clear.exe
+C:\Program Files\Git\usr\bin\cmp.exe
+C:\Program Files\Git\usr\bin\comm.exe
+C:\Program Files\Git\usr\bin\cp.exe
+C:\Program Files\Git\usr\bin\csplit.exe
+C:\Program Files\Git\usr\bin\cut.exe
+C:\Program Files\Git\usr\bin\cygcheck.exe
+C:\Program Files\Git\usr\bin\cygpath.exe
+C:\Program Files\Git\usr\bin\cygwin-console-helper.exe
+C:\Program Files\Git\usr\bin\d2u.exe
+C:\Program Files\Git\usr\bin\dash.exe
+C:\Program Files\Git\usr\bin\date.exe
+C:\Program Files\Git\usr\bin\dd.exe
+C:\Program Files\Git\usr\bin\df.exe
+C:\Program Files\Git\usr\bin\diff.exe
+C:\Program Files\Git\usr\bin\diff3.exe
+C:\Program Files\Git\usr\bin\dir.exe
+C:\Program Files\Git\usr\bin\dircolors.exe
+C:\Program Files\Git\usr\bin\dirname.exe
+C:\Program Files\Git\usr\bin\dos2unix.exe
+C:\Program Files\Git\usr\bin\du.exe
+C:\Program Files\Git\usr\bin\echo.exe
+C:\Program Files\Git\usr\bin\env.exe
+C:\Program Files\Git\usr\bin\ex.exe
+C:\Program Files\Git\usr\bin\expand.exe
+C:\Program Files\Git\usr\bin\expr.exe
+C:\Program Files\Git\usr\bin\factor.exe
+C:\Program Files\Git\usr\bin\false.exe
+C:\Program Files\Git\usr\bin\file.exe
+C:\Program Files\Git\usr\bin\find.exe
+C:\Program Files\Git\usr\bin\fmt.exe
+C:\Program Files\Git\usr\bin\fold.exe
+C:\Program Files\Git\usr\bin\gawk-4.1.3.exe
+C:\Program Files\Git\usr\bin\gawk.exe
+C:\Program Files\Git\usr\bin\gdbmtool.exe
+C:\Program Files\Git\usr\bin\gdbm_dump.exe
+C:\Program Files\Git\usr\bin\gdbm_load.exe
+C:\Program Files\Git\usr\bin\getconf.exe
+C:\Program Files\Git\usr\bin\getfacl.exe
+C:\Program Files\Git\usr\bin\gkill.exe
+C:\Program Files\Git\usr\bin\gpg.exe
+C:\Program Files\Git\usr\bin\gpgsplit.exe
+C:\Program Files\Git\usr\bin\gpgv.exe
+C:\Program Files\Git\usr\bin\grep.exe
+C:\Program Files\Git\usr\bin\groups.exe
+C:\Program Files\Git\usr\bin\gzip.exe
+C:\Program Files\Git\usr\bin\head.exe
+C:\Program Files\Git\usr\bin\hostid.exe
+C:\Program Files\Git\usr\bin\hostname.exe
+C:\Program Files\Git\usr\bin\iconv.exe
+C:\Program Files\Git\usr\bin\id.exe
+C:\Program Files\Git\usr\bin\infocmp.exe
+C:\Program Files\Git\usr\bin\infotocap.exe
+C:\Program Files\Git\usr\bin\install.exe
+C:\Program Files\Git\usr\bin\join.exe
+C:\Program Files\Git\usr\bin\kill.exe
+C:\Program Files\Git\usr\bin\ldd.exe
+C:\Program Files\Git\usr\bin\ldh.exe
+C:\Program Files\Git\usr\bin\less.exe
+C:\Program Files\Git\usr\bin\lessecho.exe
+C:\Program Files\Git\usr\bin\lesskey.exe
+C:\Program Files\Git\usr\bin\link.exe
+C:\Program Files\Git\usr\bin\ln.exe
+C:\Program Files\Git\usr\bin\locale.exe
+C:\Program Files\Git\usr\bin\locate.exe
+C:\Program Files\Git\usr\bin\logname.exe
+C:\Program Files\Git\usr\bin\ls.exe
+C:\Program Files\Git\usr\bin\mac2unix.exe
+C:\Program Files\Git\usr\bin\md5sum.exe
+C:\Program Files\Git\usr\bin\minidumper.exe
+C:\Program Files\Git\usr\bin\mintty.exe
+C:\Program Files\Git\usr\bin\mkdir.exe
+C:\Program Files\Git\usr\bin\mkfifo.exe
+C:\Program Files\Git\usr\bin\mkgroup.exe
+C:\Program Files\Git\usr\bin\mknod.exe
+C:\Program Files\Git\usr\bin\mkpasswd.exe
+C:\Program Files\Git\usr\bin\mktemp.exe
+C:\Program Files\Git\usr\bin\mount.exe
+C:\Program Files\Git\usr\bin\mv.exe
+C:\Program Files\Git\usr\bin\nice.exe
+C:\Program Files\Git\usr\bin\nl.exe
+C:\Program Files\Git\usr\bin\nohup.exe
+C:\Program Files\Git\usr\bin\nproc.exe
+C:\Program Files\Git\usr\bin\numfmt.exe
+C:\Program Files\Git\usr\bin\od.exe
+C:\Program Files\Git\usr\bin\oldfind.exe
+C:\Program Files\Git\usr\bin\openssl.exe
+C:\Program Files\Git\usr\bin\p11-kit.exe
+C:\Program Files\Git\usr\bin\passwd.exe
+C:\Program Files\Git\usr\bin\paste.exe
+C:\Program Files\Git\usr\bin\patch.exe
+C:\Program Files\Git\usr\bin\pathchk.exe
+C:\Program Files\Git\usr\bin\perl.exe
+C:\Program Files\Git\usr\bin\pinky.exe
+C:\Program Files\Git\usr\bin\pldd.exe
+C:\Program Files\Git\usr\bin\pluginviewer.exe
+C:\Program Files\Git\usr\bin\pr.exe
+C:\Program Files\Git\usr\bin\printenv.exe
+C:\Program Files\Git\usr\bin\printf.exe
+C:\Program Files\Git\usr\bin\ps.exe
+C:\Program Files\Git\usr\bin\ptx.exe
+C:\Program Files\Git\usr\bin\pwd.exe
+C:\Program Files\Git\usr\bin\readlink.exe
+C:\Program Files\Git\usr\bin\realpath.exe
+C:\Program Files\Git\usr\bin\rebase.exe
+C:\Program Files\Git\usr\bin\regtool.exe
+C:\Program Files\Git\usr\bin\reset.exe
+C:\Program Files\Git\usr\bin\rm.exe
+C:\Program Files\Git\usr\bin\rmdir.exe
+C:\Program Files\Git\usr\bin\runcon.exe
+C:\Program Files\Git\usr\bin\rview.exe
+C:\Program Files\Git\usr\bin\rvim.exe
+C:\Program Files\Git\usr\bin\sasldblistusers2.exe
+C:\Program Files\Git\usr\bin\saslpasswd2.exe
+C:\Program Files\Git\usr\bin\scp.exe
+C:\Program Files\Git\usr\bin\sdiff.exe
+C:\Program Files\Git\usr\bin\sed.exe
+C:\Program Files\Git\usr\bin\seq.exe
+C:\Program Files\Git\usr\bin\setfacl.exe
+C:\Program Files\Git\usr\bin\setmetamode.exe
+C:\Program Files\Git\usr\bin\sftp.exe
+C:\Program Files\Git\usr\bin\sh.exe
+C:\Program Files\Git\usr\bin\sha1sum.exe
+C:\Program Files\Git\usr\bin\sha224sum.exe
+C:\Program Files\Git\usr\bin\sha256sum.exe
+C:\Program Files\Git\usr\bin\sha384sum.exe
+C:\Program Files\Git\usr\bin\sha512sum.exe
+C:\Program Files\Git\usr\bin\shred.exe
+C:\Program Files\Git\usr\bin\shuf.exe
+C:\Program Files\Git\usr\bin\sleep.exe
+C:\Program Files\Git\usr\bin\slogin.exe
+C:\Program Files\Git\usr\bin\sort.exe
+C:\Program Files\Git\usr\bin\split.exe
+C:\Program Files\Git\usr\bin\ssh-add.exe
+C:\Program Files\Git\usr\bin\ssh-agent.exe
+C:\Program Files\Git\usr\bin\ssh-keygen.exe
+C:\Program Files\Git\usr\bin\ssh-keyscan.exe
+C:\Program Files\Git\usr\bin\ssh.exe
+C:\Program Files\Git\usr\bin\sshd.exe
+C:\Program Files\Git\usr\bin\ssp.exe
+C:\Program Files\Git\usr\bin\stat.exe
+C:\Program Files\Git\usr\bin\stdbuf.exe
+C:\Program Files\Git\usr\bin\strace.exe
+C:\Program Files\Git\usr\bin\stty.exe
+C:\Program Files\Git\usr\bin\sum.exe
+C:\Program Files\Git\usr\bin\sync.exe
+C:\Program Files\Git\usr\bin\tabs.exe
+C:\Program Files\Git\usr\bin\tac.exe
+C:\Program Files\Git\usr\bin\tail.exe
+C:\Program Files\Git\usr\bin\tar.exe
+C:\Program Files\Git\usr\bin\tee.exe
+C:\Program Files\Git\usr\bin\test.exe
+C:\Program Files\Git\usr\bin\tic.exe
+C:\Program Files\Git\usr\bin\timeout.exe
+C:\Program Files\Git\usr\bin\toe.exe
+C:\Program Files\Git\usr\bin\touch.exe
+C:\Program Files\Git\usr\bin\tput.exe
+C:\Program Files\Git\usr\bin\tr.exe
+C:\Program Files\Git\usr\bin\true.exe
+C:\Program Files\Git\usr\bin\truncate.exe
+C:\Program Files\Git\usr\bin\trust.exe
+C:\Program Files\Git\usr\bin\tset.exe
+C:\Program Files\Git\usr\bin\tsort.exe
+C:\Program Files\Git\usr\bin\tty.exe
+C:\Program Files\Git\usr\bin\tzset.exe
+C:\Program Files\Git\usr\bin\u2d.exe
+C:\Program Files\Git\usr\bin\umount.exe
+C:\Program Files\Git\usr\bin\uname.exe
+C:\Program Files\Git\usr\bin\unexpand.exe
+C:\Program Files\Git\usr\bin\uniq.exe
+C:\Program Files\Git\usr\bin\unix2dos.exe
+C:\Program Files\Git\usr\bin\unix2mac.exe
+C:\Program Files\Git\usr\bin\unlink.exe
+C:\Program Files\Git\usr\bin\users.exe
+C:\Program Files\Git\usr\bin\vdir.exe
+C:\Program Files\Git\usr\bin\view.exe
+C:\Program Files\Git\usr\bin\vim.exe
+C:\Program Files\Git\usr\bin\vimdiff.exe
+C:\Program Files\Git\usr\bin\wc.exe
+C:\Program Files\Git\usr\bin\which.exe
+C:\Program Files\Git\usr\bin\who.exe
+C:\Program Files\Git\usr\bin\whoami.exe
+C:\Program Files\Git\usr\bin\winpty-agent.exe
+C:\Program Files\Git\usr\bin\winpty.exe
+C:\Program Files\Git\usr\bin\xargs.exe
+C:\Program Files\Git\usr\bin\xmlwf.exe
+C:\Program Files\Git\usr\bin\xxd.exe
+C:\Program Files\Git\usr\bin\yes.exe
+C:\Program Files\Git\usr\bin\[.exe
+C:\Program Files\Git\usr\lib\awk\grcat.exe
+C:\Program Files\Git\usr\lib\awk\pwcat.exe
+C:\Program Files\Git\usr\lib\coreutils\libstdbuf.so.exe
+C:\Program Files\Git\usr\lib\gnupg\gnupg\gpgkeys_curl.exe
+C:\Program Files\Git\usr\lib\gnupg\gnupg\gpgkeys_finger.exe
+C:\Program Files\Git\usr\lib\gnupg\gnupg\gpgkeys_hkp.exe
+C:\Program Files\Git\usr\lib\p11-kit\p11-kit-remote.exe
+C:\Program Files\Git\usr\lib\ssh\sftp-server.exe
+C:\Program Files\Git\usr\lib\ssh\ssh-keysign.exe
+C:\Program Files\Git\usr\lib\ssh\ssh-pkcs11-helper.exe
+C:\Program Files\Git\usr\lib\tar\rmt.exe
+C:\Program Files\Git\usr\libexec\bigram.exe
+C:\Program Files\Git\usr\libexec\code.exe
+C:\Program Files\Git\usr\libexec\frcode.exe
+C:\Program Files\Git\git-bash.exe
+C:\Program Files\Git\git-cmd.exe
+C:\Program Files\Git\unins000.exe
+C:\Program Files\IIS\Microsoft Web Deploy V3\Scripts\powershellcustomhost.exe
+C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+C:\Program Files\IIS Express\appcmd.exe
+C:\Program Files\IIS Express\iisexpress.exe
+C:\Program Files\IIS Express\IisExpressAdminCmd.exe
+C:\Program Files\IIS Express\iisexpresstray.exe
+C:\Program Files\Intel\iCLS Client\HeciServer.exe
+C:\Program Files\Intel\iCLS Client\SocketHeciServer.exe
+C:\Program Files\Internet Explorer\iediagcmd.exe
+C:\Program Files\Internet Explorer\ieinstal.exe
+C:\Program Files\Internet Explorer\ielowutil.exe
+C:\Program Files\Internet Explorer\iexplore.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\appletviewer.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\apt.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\extcheck.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\idlj.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jar.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jarsigner.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\java.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javac.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javadoc.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javafxpackager.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javah.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javap.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\javaws.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jcmd.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jconsole.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jdb.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jhat.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jinfo.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jmap.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jmc.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jps.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jrunscript.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jsadebugd.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jstack.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jstat.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jstatd.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\jvisualvm.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\keytool.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\kinit.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\klist.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\ktab.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\native2ascii.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\orbd.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\pack200.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\policytool.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\rmic.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\rmid.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\schemagen.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\serialver.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\servertool.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\unpack200.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\wsgen.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\wsimport.exe
+C:\Program Files\Java\jdk1.7.0_79\bin\xjc.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\java.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\javacpl.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\javaw.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\javaws.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\jp2launcher.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\keytool.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\kinit.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\klist.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\ktab.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\orbd.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\pack200.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\policytool.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\rmid.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\servertool.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\ssvagent.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\bin\unpack200.exe
+C:\Program Files\Java\jdk1.7.0_79\jre\lib\launcher.exe
+C:\Program Files\Java\jdk1.7.0_79\lib\visualvm\platform\lib\nbexec.exe
+C:\Program Files\Java\jdk1.7.0_79\lib\visualvm\platform\lib\nbexec64.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\appletviewer.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\extcheck.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\idlj.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jar.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jarsigner.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\java.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javac.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javadoc.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javafxpackager.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javah.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javap.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javapackager.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javaw.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\javaws.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jcmd.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jconsole.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jdb.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jdeps.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jhat.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jinfo.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jjs.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jmap.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jmc.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jps.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jrunscript.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jsadebugd.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jstack.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jstat.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jstatd.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\jvisualvm.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\keytool.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\kinit.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\klist.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\ktab.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\native2ascii.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\orbd.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\pack200.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\policytool.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\rmic.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\rmid.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\schemagen.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\serialver.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\servertool.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\unpack200.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\wsgen.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\wsimport.exe
+C:\Program Files\Java\jdk1.8.0_60\bin\xjc.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\java.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\javacpl.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\javaw.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\javaws.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\jjs.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\jp2launcher.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\keytool.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\kinit.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\klist.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\ktab.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\orbd.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\pack200.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\policytool.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\rmid.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\servertool.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\ssvagent.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.8.0_60\jre\bin\unpack200.exe
+C:\Program Files\Java\jdk1.8.0_60\lib\visualvm\platform\lib\nbexec.exe
+C:\Program Files\Java\jdk1.8.0_60\lib\visualvm\platform\lib\nbexec64.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\appletviewer.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\extcheck.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\idlj.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jar.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jarsigner.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\java.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javac.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javadoc.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javafxpackager.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javah.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javap.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javapackager.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javaw.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\javaws.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jcmd.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jconsole.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jdb.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jdeps.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jhat.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jinfo.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jjs.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jmap.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jmc.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jps.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jrunscript.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jsadebugd.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jstack.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jstat.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jstatd.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\jvisualvm.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\keytool.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\kinit.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\klist.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\ktab.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\native2ascii.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\orbd.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\pack200.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\policytool.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\rmic.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\rmid.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\schemagen.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\serialver.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\servertool.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\unpack200.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\wsgen.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\wsimport.exe
+C:\Program Files\Java\jdk1.8.0_74\bin\xjc.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\jabswitch.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\java-rmi.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\java.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\javacpl.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\javaw.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\javaws.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\jjs.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\jp2launcher.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\keytool.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\kinit.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\klist.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\ktab.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\orbd.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\pack200.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\policytool.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\rmid.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\rmiregistry.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\servertool.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\ssvagent.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\tnameserv.exe
+C:\Program Files\Java\jdk1.8.0_74\jre\bin\unpack200.exe
+C:\Program Files\Java\jdk1.8.0_74\lib\visualvm\platform\lib\nbexec.exe
+C:\Program Files\Java\jdk1.8.0_74\lib\visualvm\platform\lib\nbexec64.exe
+C:\Program Files\Java\jre1.8.0_60\bin\jabswitch.exe
+C:\Program Files\Java\jre1.8.0_60\bin\java-rmi.exe
+C:\Program Files\Java\jre1.8.0_60\bin\java.exe
+C:\Program Files\Java\jre1.8.0_60\bin\javacpl.exe
+C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe
+C:\Program Files\Java\jre1.8.0_60\bin\javaws.exe
+C:\Program Files\Java\jre1.8.0_60\bin\jjs.exe
+C:\Program Files\Java\jre1.8.0_60\bin\jp2launcher.exe
+C:\Program Files\Java\jre1.8.0_60\bin\keytool.exe
+C:\Program Files\Java\jre1.8.0_60\bin\kinit.exe
+C:\Program Files\Java\jre1.8.0_60\bin\klist.exe
+C:\Program Files\Java\jre1.8.0_60\bin\ktab.exe
+C:\Program Files\Java\jre1.8.0_60\bin\orbd.exe
+C:\Program Files\Java\jre1.8.0_60\bin\pack200.exe
+C:\Program Files\Java\jre1.8.0_60\bin\policytool.exe
+C:\Program Files\Java\jre1.8.0_60\bin\rmid.exe
+C:\Program Files\Java\jre1.8.0_60\bin\rmiregistry.exe
+C:\Program Files\Java\jre1.8.0_60\bin\servertool.exe
+C:\Program Files\Java\jre1.8.0_60\bin\ssvagent.exe
+C:\Program Files\Java\jre1.8.0_60\bin\tnameserv.exe
+C:\Program Files\Java\jre1.8.0_60\bin\unpack200.exe
+C:\Program Files\Java\jre1.8.0_74\bin\jabswitch.exe
+C:\Program Files\Java\jre1.8.0_74\bin\java-rmi.exe
+C:\Program Files\Java\jre1.8.0_74\bin\java.exe
+C:\Program Files\Java\jre1.8.0_74\bin\javacpl.exe
+C:\Program Files\Java\jre1.8.0_74\bin\javaw.exe
+C:\Program Files\Java\jre1.8.0_74\bin\javaws.exe
+C:\Program Files\Java\jre1.8.0_74\bin\jjs.exe
+C:\Program Files\Java\jre1.8.0_74\bin\jp2launcher.exe
+C:\Program Files\Java\jre1.8.0_74\bin\keytool.exe
+C:\Program Files\Java\jre1.8.0_74\bin\kinit.exe
+C:\Program Files\Java\jre1.8.0_74\bin\klist.exe
+C:\Program Files\Java\jre1.8.0_74\bin\ktab.exe
+C:\Program Files\Java\jre1.8.0_74\bin\orbd.exe
+C:\Program Files\Java\jre1.8.0_74\bin\pack200.exe
+C:\Program Files\Java\jre1.8.0_74\bin\policytool.exe
+C:\Program Files\Java\jre1.8.0_74\bin\rmid.exe
+C:\Program Files\Java\jre1.8.0_74\bin\rmiregistry.exe
+C:\Program Files\Java\jre1.8.0_74\bin\servertool.exe
+C:\Program Files\Java\jre1.8.0_74\bin\ssvagent.exe
+C:\Program Files\Java\jre1.8.0_74\bin\tnameserv.exe
+C:\Program Files\Java\jre1.8.0_74\bin\unpack200.exe
+C:\Program Files\Java\jre7\bin\jabswitch.exe
+C:\Program Files\Java\jre7\bin\java-rmi.exe
+C:\Program Files\Java\jre7\bin\java.exe
+C:\Program Files\Java\jre7\bin\javacpl.exe
+C:\Program Files\Java\jre7\bin\javaw.exe
+C:\Program Files\Java\jre7\bin\javaws.exe
+C:\Program Files\Java\jre7\bin\jp2launcher.exe
+C:\Program Files\Java\jre7\bin\keytool.exe
+C:\Program Files\Java\jre7\bin\kinit.exe
+C:\Program Files\Java\jre7\bin\klist.exe
+C:\Program Files\Java\jre7\bin\ktab.exe
+C:\Program Files\Java\jre7\bin\orbd.exe
+C:\Program Files\Java\jre7\bin\pack200.exe
+C:\Program Files\Java\jre7\bin\policytool.exe
+C:\Program Files\Java\jre7\bin\rmid.exe
+C:\Program Files\Java\jre7\bin\rmiregistry.exe
+C:\Program Files\Java\jre7\bin\servertool.exe
+C:\Program Files\Java\jre7\bin\ssvagent.exe
+C:\Program Files\Java\jre7\bin\tnameserv.exe
+C:\Program Files\Java\jre7\bin\unpack200.exe
+C:\Program Files\Lenovo\Magic Transfer\MagicTransfer.exe
+C:\Program Files\Lenovo\OneKey App\OneKey Recovery\BigBang\CLUpdater.exe
+C:\Program Files\Lenovo\OneKey App\OneKey Recovery\MUITransfer\MUIStartMenu.exe
+C:\Program Files\Lenovo\OneKey App\OneKey Recovery\MUITransfer\MUIStartMenuX64.exe
+C:\Program Files\Lenovo\OneKey App\OneKey Recovery\cmos.exe
+C:\Program Files\Lenovo\OneKey App\OneKey Recovery\OneKey Recovery.exe
+C:\Program Files\Lenovo\Onekey Theater\OnekeyStudio.exe
+C:\Program Files\Lenovo PhoneCompanion\aapt.exe
+C:\Program Files\Lenovo PhoneCompanion\adb.exe
+C:\Program Files\Lenovo PhoneCompanion\Phone Companion.exe
+C:\Program Files\Lenovo PhoneCompanion\PhoneCompanionPusher.exe
+C:\Program Files\Lenovo PhoneCompanion\PhoneCompanionVap.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\vc90\vcredist_x64.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\vc90\VCRT_check.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\activate_matlab.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ctfxlauncher.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ctfxwlauncher.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ctfx_starter.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\deploytool.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\dvoanalyzer.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\dvoc.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\dvofxp.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\extractCTF.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\gmake.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\hci_server.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\InstallMATLABStartupAccelerator.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\logtest.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\MathWorks_Privileged_Operation.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\MATLAB.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\MATLABStartupAccelerator.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mcc.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mdced.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\MemShieldStarter.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mex.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mlint.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mpiexec.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mps_ctf_info.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mps_mcr_info.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mps_rotatelogs.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mps_worker_app.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mwdot.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mwneato.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\mwtwopi.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\PrintImage.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fe1_1750a.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fe1_i386.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fe1_m68k.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fe1_powerpc64bit.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fe1_sparc.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fef_1750a.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fef_i386.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fef_m68k.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fef_powerpc64bit.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ada_fef_sparc.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ast_be_il_int.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_ast_be_ra.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_be.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_comments_import.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_configure.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_cxx_fe.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_cxx_me.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_c_me.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_c_stubber.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_dvo.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_fixpoint.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_gaa_server.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_gen_cr_summary.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_gen_gui_files.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_gen_macro.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_get_free_mem.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_instrument.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_leavesfirst.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_linksuif.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_mergesuif.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_merge_drs.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_modularize_gui.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_moo.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_mvm.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_pckg.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_porky.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_printsuif.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_rptgen.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_s2c.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_server_daemon.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_set_owner_and_perms.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_suif.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ps_swighnflew.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\rtiostreamtest_host.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\scat.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\session_helper.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\smpd.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\ticks.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\unzip.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\vcredist_x64.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\VCRT_check.exe
+C:\Program Files\MATLAB\R2013b\bin\win64\zip.exe
+C:\Program Files\MATLAB\R2013b\bin\matlab.exe
+C:\Program Files\MATLAB\R2013b\etc\win64\lmgrd.exe
+C:\Program Files\MATLAB\R2013b\etc\win64\lmtools.exe
+C:\Program Files\MATLAB\R2013b\etc\win64\lmutil.exe
+C:\Program Files\MATLAB\R2013b\etc\win64\MLM.exe
+C:\Program Files\MATLAB\R2013b\extern\lib\win64\mwunzipsfx.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\win32\mwjenginesrv.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\win64\mwjenginesrv.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\gui-api.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\helpbrowser.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-automatic-orange-tester.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-automatic-verification.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-bug-finder-nodesktop.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-bug-finder.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-c.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-clean.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-code-prover-nodesktop.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-code-prover.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-comments-import.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-configure.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-cpp.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-desktop-c.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-desktop-cpp.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-dump-mdg-file.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-dvo.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-icc.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-jobs-manager.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-modularize-gui.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-modularize.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-remote-c.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-remote-cpp.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-remote-desktop-c.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-remote-desktop-cpp.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-remote.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-report-generator.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-results-repository.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-rl-manager.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-service.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-spooler.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-unpack.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-vcproj.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-ver.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspace-verifier.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\polyspaced.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-check-config.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-download.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-dump.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-get-qm-server.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-kill.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-move-down.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-progress.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-purge.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-remove.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\psqueue-set-password.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\rte-kernel.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\setup-remote-launcher.exe
+C:\Program Files\MATLAB\R2013b\polyspace\bin\terminate-polyspace-job.exe
+C:\Program Files\MATLAB\R2013b\polyspace\configure\win32\ps_windows_inject.exe
+C:\Program Files\MATLAB\R2013b\polyspace\configure\win64\ps_windows_inject.exe
+C:\Program Files\MATLAB\R2013b\rtw\bin\win64\envcheck.exe
+C:\Program Files\MATLAB\R2013b\runtime\win64\mwregsvr.exe
+C:\Program Files\MATLAB\R2013b\sys\extern\win64\clang\bin\clang.exe
+C:\Program Files\MATLAB\R2013b\sys\extern\win64\clang\bin\llc.exe
+C:\Program Files\MATLAB\R2013b\sys\extern\win64\clang\bin\llvm-ar.exe
+C:\Program Files\MATLAB\R2013b\sys\extern\win64\clang\bin\llvm-ld.exe
+C:\Program Files\MATLAB\R2013b\sys\extern\win64\clang\bin\llvm-stub.exe
+C:\Program Files\MATLAB\R2013b\sys\jade\bin\win64\openjade.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\jabswitch.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\java-rmi.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\java.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\javacpl.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\javaw.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\javaws.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\jp2launcher.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\keytool.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\kinit.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\klist.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\ktab.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\orbd.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\pack200.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\policytool.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\rmid.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\rmiregistry.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\servertool.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\ssvagent.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\tnameserv.exe
+C:\Program Files\MATLAB\R2013b\sys\java\jre\win64\jre\bin\unpack200.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\lburg64.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\lcc64.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\lcclib64.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\lcclnk64.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\lccmake.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\pedump64.exe
+C:\Program Files\MATLAB\R2013b\sys\lcc64\lcc64\bin\wedit64.exe
+C:\Program Files\MATLAB\R2013b\sys\perl\win32\bin\a2p.exe
+C:\Program Files\MATLAB\R2013b\sys\perl\win32\bin\perl.exe
+C:\Program Files\MATLAB\R2013b\sys\perl\win32\bin\perl5.8.9.exe
+C:\Program Files\MATLAB\R2013b\sys\perl\win32\bin\perlglob.exe
+C:\Program Files\MATLAB\R2013b\sys\perl\win32\bin\wperl.exe
+C:\Program Files\MATLAB\R2013b\sys\tcc\win64\tcc.exe
+C:\Program Files\MATLAB\R2013b\sys\tcc\win64\tiny_impdef.exe
+C:\Program Files\MATLAB\R2013b\sys\tcc\win64\tiny_libmaker.exe
+C:\Program Files\MATLAB\R2013b\toolbox\compiler\deploy\win64\MCRInstaller.exe
+C:\Program Files\MATLAB\R2013b\toolbox\compiler\win64\setup.exe
+C:\Program Files\MATLAB\R2013b\toolbox\dotnetbuilder\bin\win64\v2.0\GACInstaller.exe
+C:\Program Files\MATLAB\R2013b\toolbox\dotnetbuilder\bin\win64\ntswrap.exe
+C:\Program Files\MATLAB\R2013b\toolbox\edalink\foundation\hdllink\scripts\ttcp_win.exe
+C:\Program Files\MATLAB\R2013b\toolbox\idelink\foundation\hostapps\plink.exe
+C:\Program Files\MATLAB\R2013b\toolbox\idelink\foundation\hostapps\pscp.exe
+C:\Program Files\MATLAB\R2013b\toolbox\idelink\foundation\hostapps\putty.exe
+C:\Program Files\MATLAB\R2013b\toolbox\imaq\imaqextern\drivers\win64\dcam\1394camera646.exe
+C:\Program Files\MATLAB\R2013b\toolbox\imaq\imaqextern\drivers\win64\genicam\GenICam_VC80_Win64_x64_v2_3_0.exe
+C:\Program Files\MATLAB\R2013b\toolbox\imaq\imaqextern\utilities\detectDevices\win64\detectDevices.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\multiprog50_import.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\pcworx60_import.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\rslogix5000_import.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\step7_import_de.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\step7_import_en.exe
+C:\Program Files\MATLAB\R2013b\toolbox\plccoder\tools\scripts\step7_lang.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\rtwdemos\rsimdemos\rsim_gui\pcwin\rsim_gui.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\rtwin\kernel\win64\rtwintgt.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\Altia\sf_car_xpc.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\VBNET\SigsAndParamsDemo\bin\Demo1.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\VisualBasic\Models\sf_car_xpc\sf_car_xpc.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\VisualC\sf_car_xpc.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\xPCFrameworkSamples\Oscillator\Example1\bin\x86\Debug\xpcOscillator.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\api\xPCFrameworkSamples\Oscillator\Example2\bin\x86\Debug\xpcOscillator.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\dotnetfx\dotNetFx40_Full_x86_x64.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\bootdisk.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\clrcheck.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\dskwrite.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\flic.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\killProcess.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\launcher.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\mcs2c.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\mkusrdlm.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\RecordISO.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\udp2tcp.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\xpcbootpserver.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\xpcgetinterfaceip.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\xpctcp2ser.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\bin\xpctftpserver.exe
+C:\Program Files\MATLAB\R2013b\toolbox\rtw\targets\xpc\xpc\xpcmngr\bin\MW.Desktop.exe
+C:\Program Files\MATLAB\R2013b\toolbox\sl3d\orbisnap\bin\win64\orbisnap.exe
+C:\Program Files\MATLAB\R2013b\toolbox\sl3d\vrealm\program\vrbuild2.exe
+C:\Program Files\MATLAB\R2013b\toolbox\stateflow\stateflow\private\bin\nt\sftee.exe
+C:\Program Files\MATLAB\R2013b\toolbox\symbolic\mupad\win64\bin\mupkern.exe
+C:\Program Files\MATLAB\R2013b\toolbox\symbolic\mupad\win64\bin\vcconv.exe
+C:\Program Files\MATLAB\R2013b\toolbox\symbolic\mupad\win64\FontInstaller.exe
+C:\Program Files\MATLAB\R2013b\uninstall\bin\win64\deactivate_matlab.exe
+C:\Program Files\MATLAB\R2013b\uninstall\bin\win64\uninstall.exe
+C:\Program Files\Microsoft Office\Office14\MSOHTMED.EXE
+C:\Program Files\Microsoft SQL Server\110\LocalDB\Binn\sqlservr.exe
+C:\Program Files\Microsoft SQL Server\110\Shared\SqlDumper.exe
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bcp.exe
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\SQLCMD.EXE
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\SqlLocalDB.exe
+C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+C:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+C:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vsdiag_regwcf.exe
+C:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\Services\VsEtwService.exe
+C:\Program Files\NVIDIA Corporation\Control Panel Client\nvcplui.exe
+C:\Program Files\NVIDIA Corporation\Control Panel Client\NvGpuUtilization.exe
+C:\Program Files\NVIDIA Corporation\Display\nvsmartmaxapp.exe
+C:\Program Files\NVIDIA Corporation\Display\nvsmartmaxapp64.exe
+C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
+C:\Program Files\NVIDIA Corporation\Drs\dbInstaller.exe
+C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\CoreTemp.{0D9B363B-6795-4EE1-A271-C33CCC728FB1}\setup.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.3DVision.{093A59B9-1291-4DCD-B7D4-EF3ED91B1260}\3DVision.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.3DVision.{1A3E64B1-539C-40F8-AF11-C04AFB33E23F}\3DVision.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.3DVision.{FAF4B65B-E59F-4175-97CC-122540349B5D}\3DVision.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{09968FF5-934D-48EC-B8B1-B7DC353489C8}\dbInstaller.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{09968FF5-934D-48EC-B8B1-B7DC353489C8}\NvCplSetupInt.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{16ABD061-8895-4AF3-8309-C8500E79790D}\dbInstaller.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{16ABD061-8895-4AF3-8309-C8500E79790D}\NvCplSetupInt.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{DE2B34AF-23F1-4806-9941-AED052DC8860}\dbInstaller.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{DE2B34AF-23F1-4806-9941-AED052DC8860}\NvCplSetupInt.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{E535DFD0-D9CB-4F3F-8607-7D9CA9982691}\dbInstaller.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{E535DFD0-D9CB-4F3F-8607-7D9CA9982691}\NvCplSetupInt.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.GFExperience.{498FBD21-0F34-4852-BD82-8466EA998825}\7z.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Display.GFExperience.{498FBD21-0F34-4852-BD82-8466EA998825}\GFExperience.exe
+C:\Program Files\NVIDIA Corporation\Installer2\GFExperience.NvStreamSrv.{4E1EED1A-1324-4A82-9646-8E7002DEE904}\amd64\server\nvstreamer.exe
+C:\Program Files\NVIDIA Corporation\Installer2\GFExperience.NvStreamSrv.{4E1EED1A-1324-4A82-9646-8E7002DEE904}\amd64\server\nvstreamsvc.exe
+C:\Program Files\NVIDIA Corporation\Installer2\GFExperience.NvStreamSrv.{4E1EED1A-1324-4A82-9646-8E7002DEE904}\SteamLauncher\NVIDIA.SteamLauncher.exe
+C:\Program Files\NVIDIA Corporation\Installer2\GFExperience.NvStreamSrv.{4E1EED1A-1324-4A82-9646-8E7002DEE904}\x86\server\nvstreamer.exe
+C:\Program Files\NVIDIA Corporation\Installer2\GFExperience.NvStreamSrv.{4E1EED1A-1324-4A82-9646-8E7002DEE904}\x86\server\nvstreamsvc.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{8C9E9E5D-FA6A-4DC2-B79C-FA69CE3FF3C1}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{959978BD-B823-4DE3-BF51-BF1538548984}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{97BA4EA6-F288-4649-9ACE-4BAEC136F670}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{B329771A-D3DB-42DD-8179-5431957DDA82}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{B6754B0E-D915-40D0-96B6-AA3D9A5F6FA2}\setup.exe
+C:\Program Files\NVIDIA Corporation\Installer2\installer.{F3CEC81E-4CE9-47AB-A89B-D6DE25BF7AA8}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\SETUP.EXE
+C:\Program Files\NVIDIA Corporation\Installer2\Network.Service.{EDD08EDA-9054-4E5A-8A03-3742C32B5590}\NVNetworkService.exe
+C:\Program Files\NVIDIA Corporation\Installer2\ShadowPlay.{2FC5E225-D413-45B7-B0F0-62649DE8539F}\DXSETUP.exe
+C:\Program Files\NVIDIA Corporation\Installer2\ShadowPlay.{2FC5E225-D413-45B7-B0F0-62649DE8539F}\nvspcaps.exe
+C:\Program Files\NVIDIA Corporation\Installer2\ShadowPlay.{2FC5E225-D413-45B7-B0F0-62649DE8539F}\nvspcaps64.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Update.Core.{9E674EE1-DF92-4335-B9FE-792CAEDC22DB}\NvBackend.exe
+C:\Program Files\NVIDIA Corporation\Installer2\Update.Core.{9E674EE1-DF92-4335-B9FE-792CAEDC22DB}\WLMerger.exe
+C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe
+C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe
+C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe
+C:\Program Files\NVIDIA Corporation\NvStreamSrv\SteamLauncher\NVIDIA.SteamLauncher.exe
+C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamer.exe
+C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamNetworkService.exe
+C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamService.exe
+C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamUserAgent.exe
+C:\Program Files\NVIDIA Corporation\ShadowPlay\nvspcaps64.exe
+C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+C:\Program Files\NVIDIA Corporation\Update Core\WLMerger.exe
+C:\Program Files\Realtek\Audio\HDA\AERTSr64.exe
+C:\Program Files\Realtek\Audio\HDA\CreateRtkToastLnk.exe
+C:\Program Files\Realtek\Audio\HDA\DTSAudioService64.exe
+C:\Program Files\Realtek\Audio\HDA\FMAPP.exe
+C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe
+C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe
+C:\Program Files\Realtek\Audio\HDA\vncutil64.exe
+C:\Program Files\Realtek\Audio\ADCTL.exe
+C:\Program Files\StageLight\RemoveStageLight.exe
+C:\Program Files\StageLight\StageLight Container32.exe
+C:\Program Files\StageLight\StageLight Container64.exe
+C:\Program Files\StageLight\StageLight Reporter.exe
+C:\Program Files\StageLight\StageLight Scanner32.exe
+C:\Program Files\StageLight\StageLight Scanner64.exe
+C:\Program Files\StageLight\StageLight Watcher.exe
+C:\Program Files\StageLight\StageLight.exe
+C:\Program Files\StageLight\StageLightUpdate.exe
+C:\Program Files\Sublime Text 2\sublime_text.exe
+C:\Program Files\Sublime Text 2\unins000.exe
+C:\Program Files\Windows Defender\MpCmdRun.exe
+C:\Program Files\Windows Defender\MpUXSrv.exe
+C:\Program Files\Windows Defender\MSASCui.exe
+C:\Program Files\Windows Defender\MsMpEng.exe
+C:\Program Files\Windows Defender\NisSrv.exe
+C:\Program Files\Windows Identity Foundation\v3.5\c2wtshost.exe
+C:\Program Files\Windows Journal\Journal.exe
+C:\Program Files\Windows Journal\PDIALOG.exe
+C:\Program Files\Windows Mail\wab.exe
+C:\Program Files\Windows Mail\wabmig.exe
+C:\Program Files\Windows Media Player\setup_wm.exe
+C:\Program Files\Windows Media Player\wmlaunch.exe
+C:\Program Files\Windows Media Player\wmpconfig.exe
+C:\Program Files\Windows Media Player\wmplayer.exe
+C:\Program Files\Windows Media Player\wmpnetwk.exe
+C:\Program Files\Windows Media Player\wmpnscfg.exe
+C:\Program Files\Windows Media Player\wmprph.exe
+C:\Program Files\Windows Media Player\wmpshare.exe
+C:\Program Files\Windows Media Player\WMPSideShowGadget.exe
+C:\Program Files\Windows NT\Accessories\wordpad.exe
+C:\Program Files\Windows Photo Viewer\ImagingDevices.exe

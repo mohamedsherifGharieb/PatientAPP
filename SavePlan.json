@@ -1,0 +1,1236 @@
+{"weekPlan":
+[
+{
+"dayName": "Sunday",
+"dayID": "7",
+"dayProgress" : "7",
+"totalTasksDration": "607",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Research",
+"startTime": "12:00",
+"endTime": "14:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "19.769357495881383",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.884678747940692",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.942339373970346",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.884678747940692",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "30.14827018121911",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "15:45",
+"endTime": "16:50",
+"description" : "and more editing",
+"taskDuration" : "65",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "15",
+"startTimeM": "45",
+"endTimeH": "16",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "10.70840197693575",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "19:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "89",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "19",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "14.662273476112027",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Monday",
+"dayID": "1",
+"dayProgress" : "0",
+"totalTasksDration": "637",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Report",
+"startTime": "12:00",
+"endTime": "14:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "18.838304552590266",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.419152276295133",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.7095761381475665",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.419152276295133",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "28.728414442700156",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "20:45",
+"endTime": "21:50",
+"description" : "and more editing",
+"taskDuration" : "65",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "20",
+"startTimeM": "45",
+"endTimeH": "21",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "10.204081632653061",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "22:00",
+"endTime": "23:59",
+"description" : "and the editing goes on",
+"taskDuration" : "119",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "22",
+"startTimeM": "0",
+"endTimeH": "23",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "18.681318681318682",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Tuesday",
+"dayID": "2",
+"dayProgress" : "50",
+"totalTasksDration": "634",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Break",
+"startTime": "12:00",
+"endTime": "14:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "18.92744479495268",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.46372239747634",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.73186119873817",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "9.46372239747634",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "15:00",
+"endTime": "16:30",
+"description" : "Let's do some editing",
+"taskDuration" : "90",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "15",
+"startTimeM": "0",
+"endTimeH": "16",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "14.195583596214512",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "17:45",
+"endTime": "20:50",
+"description" : "and more editing",
+"taskDuration" : "185",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "17",
+"startTimeM": "45",
+"endTimeH": "20",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "29.179810725552052",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "19:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "89",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "19",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "14.037854889589905",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Wednesday",
+"dayID": "3",
+"dayProgress" : "40",
+"totalTasksDration": "687",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Research",
+"startTime": "00:00",
+"endTime": "2:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "0",
+"startTimeM": "0",
+"endTimeH": "2",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "17.467248908296945",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:25",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "35",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "25",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "5.094614264919942",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.366812227074236",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "8.733624454148472",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "26.637554585152838",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "12:00",
+"endTime": "14:50",
+"description" : "and more editing",
+"taskDuration" : "170",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "24.745269286754002",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "19:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "89",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "19",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "12.954876273653566",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Thursday",
+"dayID": "4",
+"dayProgress" : "90",
+"totalTasksDration": "727",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Photo Editing",
+"startTime": "12:00",
+"endTime": "14:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "16.506189821182943",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "8.253094910591471",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.126547455295736",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "8.253094910591471",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "25.17193947730399",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "17:45",
+"endTime": "20:50",
+"description" : "and more editing",
+"taskDuration" : "185",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "17",
+"startTimeM": "45",
+"endTimeH": "20",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "25.44704264099037",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "19:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "89",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "19",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "12.242090784044017",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Friday",
+"dayID": "5",
+"dayProgress" : "60",
+"totalTasksDration": "727",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "More Editing",
+"startTime": "12:00",
+"endTime": "14:00",
+"description" : "This is a Research Task",
+"taskDuration" : "120",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "14",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "16.506189821182943",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "8.253094910591471",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "4.126547455295736",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "8.253094910591471",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "25.17193947730399",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "More Editing",
+"startTime": "17:45",
+"endTime": "20:50",
+"description" : "and more editing",
+"taskDuration" : "185",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "17",
+"startTimeM": "45",
+"endTimeH": "20",
+"endTimeM": "50",
+"submitted": "false",
+"percentageOfDay": "25.44704264099037",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "19:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "89",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "19",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "12.242090784044017",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"dayName": "Saturday",
+"dayID": "6",
+"dayProgress" : "0",
+"totalTasksDration": "542",
+"tasks" : [
+{
+"taskID" : "1",
+"taskName" : "Editing",
+"startTime": "12:00",
+"endTime": "13:00",
+"description" : "This is a Research Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "12",
+"startTimeM": "0",
+"endTimeH": "13",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "11.07011070110701",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "2",
+"taskName" : "Report",
+"startTime": "2:00",
+"endTime": "3:00",
+"description" : "This is a Report Task",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "2",
+"startTimeM": "0",
+"endTimeH": "3",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "11.07011070110701",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Microsoft Word 2010"
+},
+{
+"baseName": "Google Chrome"
+}
+]
+},
+{
+"taskID" : "3",
+"taskName" : "Break",
+"startTime": "3:30",
+"endTime": "4:00",
+"description" : "Have some fun and come back refreshed!",
+"taskDuration" : "30",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "3",
+"startTimeM": "30",
+"endTimeH": "4",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "5.535055350553505",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Tibia"
+},
+{
+"baseName": "Star Wars - Empire At War"
+}
+]
+},
+{
+"taskID" : "4",
+"taskName" : "Learning",
+"startTime": "4:00",
+"endTime": "5:00",
+"description" : "This is for your Self-Developement",
+"taskDuration" : "60",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "4",
+"startTimeM": "0",
+"endTimeH": "5",
+"endTimeM": "0",
+"submitted": "false",
+"percentageOfDay": "11.07011070110701",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "5",
+"taskName" : "Photo Editing",
+"startTime": "5:27",
+"endTime": "8:30",
+"description" : "Let's do some editing",
+"taskDuration" : "183",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "5",
+"startTimeM": "27",
+"endTimeH": "8",
+"endTimeM": "30",
+"submitted": "false",
+"percentageOfDay": "33.76383763837639",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "6",
+"taskName" : "Few More Editing",
+"startTime": "18:00",
+"endTime": "18:25",
+"description" : "and more editing to do.",
+"taskDuration" : "0",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "18",
+"startTimeM": "0",
+"endTimeH": "18",
+"endTimeM": "25",
+"submitted": "false",
+"percentageOfDay": "0.0",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+},
+{
+"taskID" : "7",
+"taskName" : "Editing",
+"startTime": "18:30",
+"endTime": "20:59",
+"description" : "and the editing goes on",
+"taskDuration" : "149",
+"taskProgress" : "0",
+"taskReview" : "null",
+"startTimeH": "18",
+"startTimeM": "30",
+"endTimeH": "20",
+"endTimeM": "59",
+"submitted": "false",
+"percentageOfDay": "27.490774907749078",
+"status": "null",
+"submittedPercentage": "0.0",
+"programs" : [
+{
+"baseName": "Adobe Photoshop CC 2015"
+}
+]
+}
+]
+}

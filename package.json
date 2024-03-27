@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "java -cp bin sample.Main"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+heroku buildpacks:set heroku/nodejs
+heroku buildpacks:add heroku/jvm
