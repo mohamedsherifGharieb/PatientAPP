@@ -577,6 +577,24 @@ public class Main extends Application {
             repeatPassHBox.getChildren().addAll(repeatPassLabel, repeatPassField);
             repeatPassHBox.setAlignment(Pos.CENTER);
             repeatPassHBox.setSpacing(5);
+            
+            Label emailSLabel = new Label("Email:");
+            emailSLabel.setTextAlignment(TextAlignment.CENTER);
+            emailSLabel.setAlignment(Pos.CENTER);
+            emailSLabel.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
+            emailSLabel.setContentDisplay(ContentDisplay.CENTER);
+            emailSLabel.setPrefWidth(190);
+            emailSLabel.setPrefHeight(40);
+
+            TextField emailSField = new TextField();
+            emailSField.setPrefSize(270, 40);
+            emailSField.setEditable(true);
+            emailSField.setPromptText("example@example.com");
+            
+            HBox emailSHBox = new HBox();           
+            emailSHBox.getChildren().addAll(emailSLabel, emailSField);
+            emailSHBox.setAlignment(Pos.CENTER);
+            emailSHBox.setSpacing(5);
 
             //Buttons
             Button signupSBtn = new Button("Signup");
@@ -598,8 +616,10 @@ public class Main extends Application {
             buttonsSignup.setAlignment(Pos.CENTER);
             buttonsSignup.setSpacing(70);
             buttonsSignup.getChildren().addAll(signupSBtn, cancelSignup);
+            
+            
 
-            signupVBox.getChildren().addAll(signupLabelHBox, userNameSHBox, passwordSHBox, repeatPassHBox, buttonsSignup);
+            signupVBox.getChildren().addAll(signupLabelHBox, userNameSHBox, passwordSHBox, repeatPassHBox,emailSHBox, buttonsSignup);
             signupVBox.setAlignment(Pos.CENTER);
             signupVBox.setSpacing(20);
             Scene signupScene = new Scene(signupVBox, 560, 300);
@@ -619,10 +639,11 @@ public class Main extends Application {
             });
             signupSBtn.setOnMouseClicked(event1 -> {
                 if(passwordSField.getText().equals(repeatPassField.getText())){
-                    System.out.println("paswrods Match!!!");
                     pgRequest = "patientSignup";
                     web.getEngine().load(urlFinal + "/patientSignup/?userName="
-                            +userNameSField.getText()+"&password="+passwordSField.getText());
+                            + userNameSField.getText() + "&password=" 
+                            + passwordSField.getText() + "&email=" 
+                            + emailSField.getText());
                     //signupStage.close();
                     //Logged in
                     //primaryStage.show();
@@ -861,7 +882,7 @@ public class Main extends Application {
                              dialogVbox.getChildren().addAll(submitLabelHBox, taskName, revewHBox, doneVBox, buttons);
                              dialog.initOwner(primaryStage);
                              dialog.initStyle(StageStyle.TRANSPARENT);
-                             dialog.setAlwaysOnTop(false);
+                             dialog.setAlwaysOnTop(true);
                              dialog.setScene(dialogScene);
                              dialog.setResizable(false);
                              dialog.centerOnScreen();

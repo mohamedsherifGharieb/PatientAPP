@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "java -cp bin sample.Main"
+    "start": "java -cp \"./bin;./lib/*\" -Xmx600m -Xss1024k -XX:CICompilerCount=4 -Dfile.encoding=UTF-8 sample.Main"
   },
   "dependencies": {
     "express": "^4.19.2"
