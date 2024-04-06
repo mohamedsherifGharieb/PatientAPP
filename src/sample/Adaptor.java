@@ -507,17 +507,15 @@ public class Adaptor {
 
                 //StatusLabel
                 if (tasknow == day_Selected.getTask(t) && !tasknow.isSubmitted()) {
-                    System.out.println("MUST GET HERE!!!!<<<<<<<<>>>>>>>");
                     if (!tasknow.isSubmitted()) {
                         day_Selected.getTask(t).setStatus("Running..");
                     } else {
                         day_Selected.getTask(t).setStatus("Submitted: " + day_Selected.getTask(t).getSubmittedPercentage() + "% Completed");
                         day_Selected.getTask(t).setSubmitted(true);
-                        System.out.println(tasknow.getStatus() + "awel awelwa7da begad");
                     }
 
                 } else {
-                    if (day_Selected == day_now) {
+                    if (day_Selected == day_now){
                         if (day_now.getTask(t).getStartTimeH() == hour && day_now.getTask(t).getEndTimeH() == hour) {
                             if (day_now.getTask(t).getStartTimeM() < minute && day_now.getTask(t).getEndTimeM() <= minute) {
                                 day_Selected.getTask(t).setStatus("Submitted: " + day_Selected.getTask(t).getSubmittedPercentage() + "% Completed");
@@ -541,7 +539,6 @@ public class Adaptor {
                             } else {
                                 if (day_now.getTask(t).getStartTimeH() > hour && day_now.getTask(t).getEndTimeH() > hour) {
                                     day_Selected.getTask(t).setStatus("Waiting..");
-                                    System.out.println(day_now.getTask(t).getStatus() + "tani wa7da begad");
 
                                 } else {
                                     if (day_now.getTask(t).getStartTimeH() < hour && day_now.getTask(t).getEndTimeH() == hour && !day_now.getTask(t).isSubmitted()) {
@@ -555,10 +552,8 @@ public class Adaptor {
                                         if (day_now.getTask(t).getStartTimeH() == hour && day_now.getTask(t).getEndTimeH() > hour && !day_now.getTask(t).isSubmitted()) {
                                             if (day_now.getTask(t).getStartTimeM() <= minute) {
                                                 day_Selected.getTask(t).setStatus("Running..");
-                                                System.out.println("<><<<<<<><><><><<<<<<><><><<<< Running tani wa7da");
                                             } else {
                                                 day_Selected.getTask(t).setStatus("Waiting..");
-                                                System.out.println(day_now.getTask(t).getStatus() + "talet wa7da begad");
 
                                             }
                                         }

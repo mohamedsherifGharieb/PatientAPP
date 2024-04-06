@@ -23,7 +23,7 @@
                   </Label>
                </children>
             </HBox>
-            <HBox fx:id="taskNowBottom" prefHeight="70.0" prefWidth="1028.0" style="-fx-background-color: #EF9739;">
+            <HBox fx:id="taskNowBottom" prefHeight="70.0" prefWidth="1028.0" style="-fx-background-color: #FFFFFF;">
                <children>
                   <VBox fx:id="vBoxTask" prefHeight="67.0" prefWidth="993.0">
                      <children>

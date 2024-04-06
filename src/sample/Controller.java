@@ -2,6 +2,7 @@ package sample;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.*;
 
@@ -27,6 +28,7 @@ import sample.WeekPlan.Patient;
 import sample.WeekPlan.Task;
 import sample.WeekPlan.WeekPlan;
 import sample.utils.*;
+
 
 public class Controller extends PlanParser implements Initializable {
  //   Timer animTimer = new Timer();
@@ -56,6 +58,8 @@ public class Controller extends PlanParser implements Initializable {
     @FXML private HBox taskNowMiddle;
     @FXML private Button Notifications;
     @FXML private static Button Report ;
+    private Button emailButton;
+
 
 
   //  boolean pressedSubmit = false;
@@ -1016,10 +1020,70 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 Report.setContentDisplay(ContentDisplay.RIGHT);
                 Report.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 Report.setPrefHeight(30);
-                Report.setStyle("-fx-background-color: #2b686d55;");
+                Report.setStyle("-fx-background-color: #2b686d55;");          
                 
                 
+                // Create Chat button
+                Button chatButton = new Button("Chat");
+                chatButton.setTextAlignment(TextAlignment.RIGHT);
+                chatButton.setAlignment(Pos.CENTER_RIGHT);
+                chatButton.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
+                chatButton.setContentDisplay(ContentDisplay.RIGHT);
+                chatButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
+                chatButton.setPrefHeight(30);
+                chatButton.setStyle("-fx-background-color: #2b686d55;");           
+                
+                
+                // Create Inbox button
+                Button inboxButton = new Button("Inbox");
+                inboxButton.setTextAlignment(TextAlignment.RIGHT);
+                inboxButton.setAlignment(Pos.CENTER_RIGHT);
+                inboxButton.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
+                inboxButton.setContentDisplay(ContentDisplay.RIGHT);
+                inboxButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
+                inboxButton.setPrefHeight(30);
+                inboxButton.setStyle("-fx-background-color: #2b686d55;");      
+                
+                // Create Email button
+                emailButton = new Button("Email");
+                emailButton.setTextAlignment(TextAlignment.RIGHT);
+                emailButton.setAlignment(Pos.CENTER_RIGHT);
+                emailButton.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
+                emailButton.setContentDisplay(ContentDisplay.RIGHT);
+                emailButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
+                emailButton.setPrefHeight(30);
+                emailButton.setStyle("-fx-background-color: #2b686d55;");
 
+
+                emailButton.setOnAction(event -> {
+                    // Create a VBox to hold the text area and submit button
+                    VBox vbox = new VBox();
+                
+                    // Create a text area for the message
+                    TextArea messageTextArea = new TextArea();
+                    messageTextArea.setPromptText("Enter your message here...");
+                
+                    // Create a submit button
+                    Button submitButton = new Button("Submit");
+                    submitButton.setOnAction(submitEvent -> {
+                        // Handle submission logic here, e.g., send the email
+                        String message = messageTextArea.getText();
+                        sendEmail(message);
+                        // Close the window
+                        ((Button) submitEvent.getSource()).getScene().getWindow().hide();
+                    });
+                
+                    // Add components to VBox
+                    vbox.getChildren().addAll(messageTextArea, submitButton);
+                
+                    // Create an alert dialog to display the VBox
+                    Alert alert = new Alert(Alert.AlertType.NONE);
+                    alert.getDialogPane().setContent(vbox);
+                    alert.setTitle("Email");
+                    alert.showAndWait();
+                });
+                
+                
                 //Notification button that calls it from Notification class
                 Button Notifications = new Button("Notifications");
                 Notifications.setTextAlignment(TextAlignment.RIGHT);
@@ -1029,6 +1093,11 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 Notifications.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 Notifications.setPrefHeight(30);
                 Notifications.setStyle("-fx-background-color: #2b686d55;");
+
+                HBox buttonBox = new HBox();
+                buttonBox.setSpacing(10); // Adjust the spacing between buttons
+                buttonBox.getChildren().addAll(Report , Notifications, chatButton, inboxButton, emailButton);
+                
                 
                 //notification functions and logic
         		ActionEvent event = null;
@@ -1036,7 +1105,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         		Report.setOnAction(e -> ReportFeed.display((String)"A Reminder Alert to your on your task with countdown"));
         		
                 vBoxTask.getChildren().clear();
-                vBoxTask.getChildren().addAll(done1, done2,Report,Notifications);
+                vBoxTask.getChildren().addAll(done1, done2,buttonBox);
                 vBoxTask.setAlignment(Pos.CENTER);
                 
         	/*	ActionEvent event = null;
@@ -1080,8 +1149,46 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 		return Report;
 	}
 
+    
+
+    public void sendEmail(String message) {
+        if(message.isEmpty()){
+            Alert alert = new Alert(Alert.AlertType.WARNING);
+        alert.setTitle("Warning");
+        alert.setHeaderText(null);
+        alert.setContentText("Message cannot be empty!");
+        alert.showAndWait();
+        }
+         try {
+                URL url = new URL("http://localhost:3000");
+                HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+                connection.setRequestMethod("POST");
+                connection.setDoOutput(true);
+                
+                // Construct the request body with patient name, email, and message
+                String requestBody = "name=" + adaptor.getPatient().getPatientName() + "&email=" + adaptor.getPatient().getEmail() + "&coach=" + adaptor.getPatient().getCoachID() + "&message=" + message;
+                
+                // Write the request body to the connection output stream
+                System.out.println("Sending email with message: " + requestBody);
+
+                connection.getOutputStream().write(requestBody.getBytes());
+                
+                // Get the response code (optional)
+                int responseCode = connection.getResponseCode();
+                
+                // Close the connection
+                connection.disconnect();
+                
+                // Optionally, handle the response code or response body
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+        
+    }
+
 
 
 
     
-}

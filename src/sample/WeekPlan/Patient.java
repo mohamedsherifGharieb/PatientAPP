@@ -12,9 +12,13 @@ public class Patient extends Coach{
     public String patientName;
     public String coachName;
     public ArrayList<WeekPlan> plans;
+    public String email;
 
     public String getFile() {
         return file;
+    }
+    public String getEmail() {
+        return email;
     }
 
     public void setFile(String file) {
@@ -50,7 +54,6 @@ public class Patient extends Coach{
                 return this.plans.get(x);
             }
         }
-        System.out.println("null <<<< didn't find patient");
         return null;
     }
     public String getCoachName() {
