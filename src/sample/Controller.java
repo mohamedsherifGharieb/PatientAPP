@@ -1034,46 +1034,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 chatButton.setStyle("-fx-background-color: #2b686d55;");           
                 
                 
-                
-                
-                // Create Email button
-                emailButton = new Button("Email");
-                emailButton.setTextAlignment(TextAlignment.RIGHT);
-                emailButton.setAlignment(Pos.CENTER_RIGHT);
-                emailButton.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
-                emailButton.setContentDisplay(ContentDisplay.RIGHT);
-                emailButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
-                emailButton.setPrefHeight(30);
-                emailButton.setStyle("-fx-background-color: #2b686d55;");
-
-
-                emailButton.setOnAction(event -> {
-                    // Create a VBox to hold the text area and submit button
-                    VBox vbox = new VBox();
-                
-                    // Create a text area for the message
-                    TextArea messageTextArea = new TextArea();
-                    messageTextArea.setPromptText("Enter your message here...");
-                
-                    // Create a submit button
-                    Button submitButton = new Button("Submit");
-                    submitButton.setOnAction(submitEvent -> {
-                        // Handle submission logic here, e.g., send the email
-                        String message = messageTextArea.getText();
-                        sendEmail(message);
-                        // Close the window
-                        ((Button) submitEvent.getSource()).getScene().getWindow().hide();
-                    });
-                
-                    // Add components to VBox
-                    vbox.getChildren().addAll(messageTextArea, submitButton);
-                
-                    // Create an alert dialog to display the VBox
-                    Alert alert = new Alert(Alert.AlertType.NONE);
-                    alert.getDialogPane().setContent(vbox);
-                    alert.setTitle("Email");
-                    alert.showAndWait();
-                });
+        
                 
                 
                 //Notification button that calls it from Notification class
@@ -1088,7 +1049,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 
                 HBox buttonBox = new HBox();
                 buttonBox.setSpacing(10); // Adjust the spacing between buttons
-                buttonBox.getChildren().addAll(Report , Notifications, chatButton, emailButton);
+                buttonBox.getChildren().addAll(Report , Notifications, chatButton);
                 
                 
                 //notification functions and logic
@@ -1142,41 +1103,6 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 	}
 
     
-
-    public void sendEmail(String message) {
-        if(message.isEmpty()){
-            Alert alert = new Alert(Alert.AlertType.WARNING);
-        alert.setTitle("Warning");
-        alert.setHeaderText(null);
-        alert.setContentText("Message cannot be empty!");
-        alert.showAndWait();
-        }
-         try {
-                URL url = new URL("https://server---app-d244e2f2d7c9.herokuapp.com");
-                HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-                connection.setRequestMethod("GET");
-                connection.setDoOutput(true);
-                
-                // Construct the request body with patient name, email, and message
-                String requestBody = "/sendEmailP/?name=" + adaptor.getPatient().getPatientName() + "&coachUsername=" + adaptor.getPatient().getCoachName() + "&message=" + message;
-                
-                // Write the request body to the connection output stream
-
-                connection.getOutputStream().write(requestBody.getBytes());
-                
-                // Get the response code (optional)
-                int responseCode = connection.getResponseCode();
-                
-                // Close the connection
-                connection.disconnect();
-                
-                // Optionally, handle the response code or response body
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-
-        
     }
 
 
