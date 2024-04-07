@@ -58,8 +58,6 @@ public class Controller extends PlanParser implements Initializable {
     @FXML private HBox taskNowMiddle;
     @FXML private Button Notifications;
     @FXML private static Button Report ;
-    private Button emailButton;
-
 
 
   //  boolean pressedSubmit = false;
@@ -1034,7 +1032,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 chatButton.setStyle("-fx-background-color: #2b686d55;");           
                 
                 
-        
+                
                 
                 
                 //Notification button that calls it from Notification class
@@ -1103,7 +1101,8 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 	}
 
     
-    }
+}
+    
 
 
 
