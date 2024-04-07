@@ -1034,15 +1034,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 chatButton.setStyle("-fx-background-color: #2b686d55;");           
                 
                 
-                // Create Inbox button
-                Button inboxButton = new Button("Inbox");
-                inboxButton.setTextAlignment(TextAlignment.RIGHT);
-                inboxButton.setAlignment(Pos.CENTER_RIGHT);
-                inboxButton.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 15));
-                inboxButton.setContentDisplay(ContentDisplay.RIGHT);
-                inboxButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
-                inboxButton.setPrefHeight(30);
-                inboxButton.setStyle("-fx-background-color: #2b686d55;");      
+                
                 
                 // Create Email button
                 emailButton = new Button("Email");
@@ -1096,7 +1088,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 
                 HBox buttonBox = new HBox();
                 buttonBox.setSpacing(10); // Adjust the spacing between buttons
-                buttonBox.getChildren().addAll(Report , Notifications, chatButton, inboxButton, emailButton);
+                buttonBox.getChildren().addAll(Report , Notifications, chatButton, emailButton);
                 
                 
                 //notification functions and logic
@@ -1160,16 +1152,15 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         alert.showAndWait();
         }
          try {
-                URL url = new URL("http://localhost:3000");
+                URL url = new URL("https://server---app-d244e2f2d7c9.herokuapp.com");
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-                connection.setRequestMethod("POST");
+                connection.setRequestMethod("GET");
                 connection.setDoOutput(true);
                 
                 // Construct the request body with patient name, email, and message
-                String requestBody = "name=" + adaptor.getPatient().getPatientName() + "&email=" + adaptor.getPatient().getEmail() + "&coach=" + adaptor.getPatient().getCoachID() + "&message=" + message;
+                String requestBody = "/sendEmailP/?name=" + adaptor.getPatient().getPatientName() + "&coachUsername=" + adaptor.getPatient().getCoachName() + "&message=" + message;
                 
                 // Write the request body to the connection output stream
-                System.out.println("Sending email with message: " + requestBody);
 
                 connection.getOutputStream().write(requestBody.getBytes());
                 
