@@ -8,10 +8,11 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Random;
-
 import org.joda.time.DateTimeConstants;
 import org.joda.time.LocalDate;
-
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.beans.binding.BooleanBinding;
@@ -245,11 +246,10 @@ public class Main extends Application {
 //TODO: UPDATE PATIENT FILE IN POSTGRESQL !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! & change SavePlan to return String or just read file
         primaryStage.setOnCloseRequest(event -> {
             pgRequest = "";
-            	System.out.println("Closing");
             	
                  try {
-						 SavePlan.savePlan(adaptor.getPatient()); 
-						 String urlParameter1 = "patientName=" + adaptor.getPatient().getPatientName();
+					 SavePlan.savePlan(adaptor.getPatient()); 
+					 String urlParameter1 = "patientName=" + adaptor.getPatient().getPatientName();
             		 String urlParamter2 = "file=" + adaptor.getPatient().getFile();
             		 String param = urlParameter1 + "&" + urlParamter2;	                    		 
             		 URL url = new URL(urlFinal + "/setPatientFile/"); 
@@ -1270,10 +1270,23 @@ public class Main extends Application {
                                         adaptor.getPatient().setPatientName(userNameField.getText());
                                         adaptor.setAddPatientFile(webengine.getDocument().getDocumentElement().getTextContent());                                   
                                         adaptor.getMainHBox().setDisable(false);
-                                        Patient patient = new Patient(userNameField.getText(), adaptor.getAddPatientFile());
-                                        System.out.println(userNameField.getText());
+                                        Patient patient = new Patient(userNameField.getText(), adaptor.getAddPatientFile());       
+                                         try {
+                                            // Parse the JSON string
+                                            JSONObject jsonObject = new JSONObject(adaptor.getAddPatientFile());
+                                
+                                            // Extract the value associated with the 'coachName' key
+                                            String coachName = jsonObject.getString("coachName");
+                                            patient.setCoachName(coachName);                                
+                                            // Print the extracted coachName
+                                            System.out.println("Coach Name: " + coachName);
+                                        } catch (JSONException e) {
+                                            // Handle JSON exception
+                                            e.printStackTrace();
+                                        }          
+                                        patient.getCoachName();                              
                                         patient.setPlans(LoadPlan.parse(patient, adaptor.getAddPatientFile()));
-                                        System.out.println(patient.getPlans().size());
+                                        System.out.print(adaptor.getAddPatientFile());
                 
                                         if(patient.plans.size() != 0){
                                             //Patient patient = LoadPlan.parse(webengine.getDocument().getDocumentElement().getTextContent());

@@ -8,10 +8,12 @@ import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
+import javafx.util.Duration;
+import org.joda.time.LocalDate;
 import java.util.*;
-
-import org.json.simple.JSONArray;
-
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.beans.property.BooleanProperty;
@@ -1042,6 +1044,10 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 chatButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 chatButton.setPrefHeight(30);
                 chatButton.setStyle("-fx-background-color: #2b686d55;");           
+                chatButton.setOnMouseClicked(event -> {
+                    openChatWindow();
+                });
+                
                 
                 
                 
@@ -1115,8 +1121,29 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
 	public static Button getReport() {
 		return Report;
 	}
+    private void refreshChat() {
+        // Send HTTP request to the server
+        String response = sendHTTPRequest("https://server---app-d244e2f2d7c9.herokuapp.com" + "/getChat/?coachName=" + adaptor.getPatient().getCoachName() + "&patientName=" + adaptor.getPatient().getPatientName());
     
+        try {
+            // Parse the JSON array
+            JSONArray jsonArray = new JSONArray(response);
     
+            // Get the inbox array from the JSON object
+            JSONObject jsonObject = jsonArray.getJSONObject(0);
+            JSONArray inboxArray = jsonObject.getJSONArray("inbox");
+    
+            // Display each sender-message pair in the message display area
+            StringBuilder formattedMessages = new StringBuilder();
+            for (int i = 0; i < inboxArray.length(); i++) {
+                String senderMessage = inboxArray.getString(i);
+                formattedMessages.append(senderMessage).append("\n");
+            }
+            messageDisplay.setText(formattedMessages.toString());
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
     private void openChatWindow() {
         // Define chatbox UI components
         startChatRefresh();
@@ -1137,34 +1164,12 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
             a.printStackTrace();
             // Handle encoding exception
         } 
-            String url = "https://server---app-d244e2f2d7c9.herokuapp.com/sendMassege/?coachName=" + coachName + "&patientName=" + patientName + "&message=" + encodedMessage;
+            String url = "https://server---app-d244e2f2d7c9.herokuapp.com/sendMassegeP/?coachName=" + coachName + "&patientName=" + patientName + "&message=" + encodedMessage;
             sendHTTPRequestPost(url);
             chatInput.clear();
             refreshChat();
         });
-       private void refreshChat() {
-    // Send HTTP request to the server
-    String response = sendHTTPRequest("https://server---app-d244e2f2d7c9.herokuapp.com" + "/getChat/?coachName=" + adaptor.getPatientSelected().getCoachName() + "&patientName=" + adaptor.getPatientSelected().getPatientName());
-
-    // Parse the JSON response
-    try {
-        // Convert the response string to a JSONArray
-        JSONArray jsonArray = new JSONArray(response);
-
-        // Extract inbox messages from the JSONArray
-        JSONArray inboxArray = jsonArray.getJSONObject(0).getJSONArray("inbox");
-
-        // Display each message in the message display area
-        StringBuilder formattedMessages = new StringBuilder();
-        for (int i = 0; i < inboxArray.length(); i++) {
-            formattedMessages.append(inboxArray.getString(i)).append("\n");
-        }
-        messageDisplay.setText(formattedMessages.toString());
-    } catch (JSONException e) {
-        // Handle JSON parsing exception
-        e.printStackTrace();
-    }
-}
+      
         
     
         messageDisplay = new TextArea();
