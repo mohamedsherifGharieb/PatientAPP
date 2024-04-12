@@ -13,5 +13,8 @@
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="lib" path="lib/json-simple-2.1.2.jar"/>
 	<classpathentry kind="lib" path="RefrencedLibraries/controlsfx-8.40.11.jar"/>
+	<classpathentry kind="lib" path="lib/json-20210307.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

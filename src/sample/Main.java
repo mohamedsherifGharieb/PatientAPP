@@ -1273,11 +1273,10 @@ public class Main extends Application {
                                         Patient patient = new Patient(userNameField.getText(), adaptor.getAddPatientFile());
                                         System.out.println(userNameField.getText());
                                         patient.setPlans(LoadPlan.parse(patient, adaptor.getAddPatientFile()));
-                                       System.out.println(patient.getPlans().size());
+                                        System.out.println(patient.getPlans().size());
                 
                                         if(patient.plans.size() != 0){
                                             //Patient patient = LoadPlan.parse(webengine.getDocument().getDocumentElement().getTextContent());
-                                            
                                         	adaptor.setPatient(patient);
                                             adaptor.setWeekPlan(patient.getPlans().get(0));
                                             LocalDate now = new LocalDate();
@@ -1285,7 +1284,8 @@ public class Main extends Application {
                                             String weekplanEDate = patient.getPlans().get(0).getWeekPlanEDate();
                                             LocalDate monday = now.withDayOfWeek(DateTimeConstants.MONDAY);
                                             String currentDate = now.toString() ;
-                                            if( weekplanSDate.compareTo(currentDate) <=0 && weekplanEDate.compareTo(currentDate) > 0){
+                                            /*if( weekplanSDate.compareTo(currentDate) <=0 && weekplanEDate.compareTo(currentDate) > 0){
+                                                System.out.print("ana hena");
                                             	loginStage.close();
                                                 errorText.setText("No Tasks were assigned to you today,\n come back tomorrow");
                                                 errorMessage.setScene(errorScene);
@@ -1296,14 +1296,14 @@ public class Main extends Application {
                                                     passwordField.setText("");
                                                     passwordField.requestFocus();
                                                 });
-                                            }
-                                            else{
+                                            }*/
+                                           //else{
                                             adaptor.getLoggedIn().defaultButtonProperty().setValue(true);
                                             loginStage.close();
                                             adaptor.getLoggedIn().defaultButtonProperty().setValue(true);
                                             //Logged in
                                             primaryStage.show();
-                                            }
+                                           // }
                                         }
                                         else{
                                             loginStage.close();
