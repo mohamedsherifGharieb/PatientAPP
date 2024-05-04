@@ -615,10 +615,7 @@ public class Adaptor {
                 //Changing day Progress
                 if (day_Selected.getTask(t).isSubmitted()) {
                     total1 += day_Selected.getTask(t).getPercentageOfDay();
-                    System.out.println(total1+"..........day total 1 !!!");
                     total += day_Selected.getTask(t).getSubmittedPercentage();
-                    System.out.println(total+"..........day total !!!");
-                    //System.out.println(total);
                 }
             }
             System.out.println((total/total1)*100 +"..........day progress !!!");
@@ -629,6 +626,8 @@ public class Adaptor {
             {
             p.getDayById(day_Selected.getDayID()).setDayProgress((total/total1));
             dayProgress.setProgress((total/total1));
+            String progressBarStyle = "-fx-accent: darkgreen;";
+dayProgress.setStyle(progressBarStyle);
             }
         }
         for (Node x: tasksHBox.getChildren()) {

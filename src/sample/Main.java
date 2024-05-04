@@ -62,9 +62,6 @@ public class Main extends Application {
     Stage loginStage = new Stage();
     Stage signupStage = new Stage();
     Stage errorMessage = new Stage();
-    private boolean submitbutton = false;
-    private boolean pressedSubmit = false;
-    private boolean asyncSubmit = false;
     String pgRequest = "";
 
     VBox signupVBox = new VBox();
@@ -304,7 +301,7 @@ public class Main extends Application {
         HBox errorLabelHBox = new HBox();
         errorLabelHBox.getChildren().add(errorLabel);
         errorLabelHBox.setAlignment(Pos.CENTER);
-        errorLabelHBox.setStyle("-fx-background-color: #476A6F;");
+        errorLabelHBox.setStyle("-fx-background-color: #103F66;");
 
         //error Messaage
         Label errorText = new Label("");
@@ -325,7 +322,7 @@ public class Main extends Application {
         errorOkButton.setPrefWidth(150);
         errorOkButton.setTextFill(Color.WHITE);
         errorOkButton.setPrefHeight(25);
-        errorOkButton.setStyle("-fx-background-color: #2b686d55;");
+        errorOkButton.setStyle("-fx-background-color: #103F66;");
 
         errorOkButton.setOnMouseEntered(event4 -> {
             errorOkButton.setEffect(borderGlow);
@@ -335,7 +332,7 @@ public class Main extends Application {
         });
 
         HBox buttonsError = new HBox();
-        buttonsError.setStyle("-fx-background-color: #2e6a6f;");
+        buttonsError.setStyle("-fx-background-color: #103F66;");
         buttonsError.setAlignment(Pos.CENTER);
         buttonsError.setSpacing(70);
         buttonsError.getChildren().addAll(errorOkButton);
@@ -343,6 +340,7 @@ public class Main extends Application {
         errorMessageVBox.getChildren().addAll(errorLabelHBox, errorTextHBox, buttonsError);
         errorMessageVBox.setAlignment(Pos.CENTER);
         errorMessageVBox.setSpacing(30);
+        errorMessageVBox.setStyle("-fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px;");
         Scene errorScene = new Scene(errorMessageVBox, 500, 208);
 
         errorMessage.initModality(Modality.APPLICATION_MODAL);
@@ -368,7 +366,7 @@ public class Main extends Application {
         HBox loginLabelHBox = new HBox();
         loginLabelHBox.getChildren().add(loginLabel);
         loginLabelHBox.setAlignment(Pos.CENTER);
-        loginLabelHBox.setStyle("-fx-background-color: #2e6a6f;");
+        loginLabelHBox.setStyle("-fx-background-color:#103F66;");
 
 
         //user Name HBox
@@ -415,7 +413,7 @@ public class Main extends Application {
         loginBtn.setTextFill(Color.WHITE);
         loginBtn.setPrefWidth(150);
         loginBtn.setPrefHeight(25);
-        loginBtn.setStyle("-fx-background-color: #2b686d55;");
+        loginBtn.setStyle("-fx-background-color:#103F66;");
         loginBtn.setDisable(true);
 
         Button signupPBtn = new Button("Signup");
@@ -423,17 +421,17 @@ public class Main extends Application {
         signupPBtn.setTextFill(Color.WHITE);
         signupPBtn.setPrefWidth(150);
         signupPBtn.setPrefHeight(25);
-        signupPBtn.setStyle("-fx-background-color: #2b686d55;");
+        signupPBtn.setStyle("-fx-background-color: #103F66;");
 
         Button cancelLogin = new Button("Exit");
         cancelLogin.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 20));
         cancelLogin.setTextFill(Color.WHITE);
         cancelLogin.setPrefWidth(150);
         cancelLogin.setPrefHeight(25);
-        cancelLogin.setStyle("-fx-background-color: #2b686d55;");
+        cancelLogin.setStyle("-fx-background-color: #103F66;");
 
         HBox buttonsLogin = new HBox();
-        buttonsLogin.setStyle("-fx-background-color: #2e6a6f;");
+        buttonsLogin.setStyle("-fx-background-color: #103F66;");
         buttonsLogin.setAlignment(Pos.CENTER);
         buttonsLogin.setSpacing(40);
         buttonsLogin.getChildren().addAll(loginBtn, signupPBtn, cancelLogin);
@@ -441,6 +439,7 @@ public class Main extends Application {
         loginVBox.getChildren().addAll(loginLabelHBox, userNameHBox, passwordHBox,  buttonsLogin);
         loginVBox.setAlignment(Pos.CENTER);
         loginVBox.setSpacing(20);
+        loginVBox.setStyle("-fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px;");
         Scene loginScene = new Scene(loginVBox, 570, 235);
 
         loginStage.initModality(Modality.APPLICATION_MODAL);
@@ -521,7 +520,7 @@ public class Main extends Application {
             HBox signupLabelHBox = new HBox();
             signupLabelHBox.getChildren().add(signupLabel);
             signupLabelHBox.setAlignment(Pos.CENTER);
-            signupLabelHBox.setStyle("-fx-background-color: #2e6a6f;");
+            signupLabelHBox.setStyle("-fx-background-color: #103F66;");
 
 
             //user Name HBox
@@ -602,17 +601,17 @@ public class Main extends Application {
             signupSBtn.setTextFill(Color.WHITE);
             signupSBtn.setPrefWidth(150);
             signupSBtn.setPrefHeight(25);
-            signupSBtn.setStyle("-fx-background-color: #2b686d55;");
+            signupSBtn.setStyle("-fx-background-color: #103F66;");
 
             Button cancelSignup = new Button("Cancel");
             cancelSignup.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 20));
             cancelSignup.setTextFill(Color.WHITE);
             cancelSignup.setPrefWidth(150);
             cancelSignup.setPrefHeight(25);
-            cancelSignup.setStyle("-fx-background-color: #2b686d55;");
+            cancelSignup.setStyle("-fx-background-color: #103F66;");
 
             HBox buttonsSignup = new HBox();
-            buttonsSignup.setStyle("-fx-background-color: #2e6a6f;");
+            buttonsSignup.setStyle("-fx-background-color: #103F66;");
             buttonsSignup.setAlignment(Pos.CENTER);
             buttonsSignup.setSpacing(70);
             buttonsSignup.getChildren().addAll(signupSBtn, cancelSignup);
@@ -622,6 +621,7 @@ public class Main extends Application {
             signupVBox.getChildren().addAll(signupLabelHBox, userNameSHBox, passwordSHBox, repeatPassHBox,emailSHBox, buttonsSignup);
             signupVBox.setAlignment(Pos.CENTER);
             signupVBox.setSpacing(20);
+            signupVBox.setStyle("-fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px;");
             Scene signupScene = new Scene(signupVBox, 560, 300);
 
             loginStage.close();
@@ -833,9 +833,7 @@ public class Main extends Application {
         submitbtn.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-            	System.out.println("in submitbtnnnn");
-  
-               dialog = new Stage();
+                dialog = new Stage();
                 dialog.initModality(Modality.APPLICATION_MODAL);
                 taskName.setText(adaptor.getTasknow().getTaskName());
                 buttons.getChildren().clear();
@@ -911,10 +909,7 @@ public class Main extends Application {
             @Override
             public void changed(ObservableValue<? extends Boolean> observable, Boolean oldValue, Boolean newValue) {
                 if(newValue && dialog.isShowing()) {
-                    System.out.println("dialogue showing<<<<<<");
-                    System.out.println(newValue);
                     adaptor.getMainHBox().setDisable(false);
-                    //adaptor.getMainVBox().setDisable(false);
                     adaptor.setTaskReviewPer(reviewArea.getText() + " ");
                     adaptor.getTasknow().setSubmittedPercentage(Integer.parseInt(donePer.getText()));
                     adaptor.getTasknow().setSubmitted(true);
@@ -958,7 +953,7 @@ public class Main extends Application {
                     HBox elh = new HBox();
                     elh.getChildren().add(edit);
                     elh.setAlignment(Pos.CENTER);
-                    elh.setStyle("-fx-background-color: #2e6a6f;");
+                    elh.setStyle("-fx-background-color: #103F66;");
                     //taskName
                     Label tname = new Label(adaptor.getDayToEdit().getTaskByID(adaptor.getTaskToEdit().getTaskID()).getTaskName());
                     tname.setTextAlignment(TextAlignment.CENTER);
@@ -1035,7 +1030,7 @@ public class Main extends Application {
                     su.setTextFill(Color.WHITE);
                     su.setPrefWidth(150);
                     su.setPrefHeight(25);
-                    su.setStyle("-fx-background-color: #2b686d55;");
+                    su.setStyle("-fx-background-color: #103F66;");
 
                     Button ca = new Button("Cancel");
                     adaptor.setCancel(ca);
@@ -1043,10 +1038,10 @@ public class Main extends Application {
                     ca.setTextFill(Color.WHITE);
                     ca.setPrefWidth(150);
                     ca.setPrefHeight(25);
-                    ca.setStyle("-fx-background-color: #2b686d55;");
+                    ca.setStyle("-fx-background-color: #103F66;");
 
                     HBox bt = new HBox();
-                    bt.setStyle("-fx-background-color: #2e6a6f;");
+                    bt.setStyle("-fx-background-color: #103F66;");
                     bt.setAlignment(Pos.CENTER);
                     bt.setSpacing(50);
                     bt.getChildren().addAll(su, ca);
@@ -1055,6 +1050,7 @@ public class Main extends Application {
                     ev.getChildren().addAll(elh, tname, rah, dv, bt);
                     ev.setAlignment(Pos.TOP_CENTER);
                     ev.setSpacing(10);
+                    ev.setStyle("-fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px;");
                     Scene ed = new Scene(ev, 500, 380);
 
                     editTask = new Stage();
@@ -1279,7 +1275,6 @@ public class Main extends Application {
                                             String coachName = jsonObject.getString("coachName");
                                             patient.setCoachName(coachName);                                
                                             // Print the extracted coachName
-                                            System.out.println("Coach Name: " + coachName);
                                         } catch (JSONException e) {
                                             // Handle JSON exception
                                             e.printStackTrace();
@@ -1297,8 +1292,7 @@ public class Main extends Application {
                                             String weekplanEDate = patient.getPlans().get(0).getWeekPlanEDate();
                                             LocalDate monday = now.withDayOfWeek(DateTimeConstants.MONDAY);
                                             String currentDate = now.toString() ;
-                                            /*if( weekplanSDate.compareTo(currentDate) <=0 && weekplanEDate.compareTo(currentDate) > 0){
-                                                System.out.print("ana hena");
+                                            if( weekplanSDate.compareTo(currentDate) <=0 && weekplanEDate.compareTo(currentDate) > 0){
                                             	loginStage.close();
                                                 errorText.setText("No Tasks were assigned to you today,\n come back tomorrow");
                                                 errorMessage.setScene(errorScene);
@@ -1309,14 +1303,14 @@ public class Main extends Application {
                                                     passwordField.setText("");
                                                     passwordField.requestFocus();
                                                 });
-                                            }*/
-                                           //else{
+                                            }
+                                           else{
                                             adaptor.getLoggedIn().defaultButtonProperty().setValue(true);
                                             loginStage.close();
                                             adaptor.getLoggedIn().defaultButtonProperty().setValue(true);
                                             //Logged in
                                             primaryStage.show();
-                                           // }
+                                            }
                                         }
                                         else{
                                             loginStage.close();

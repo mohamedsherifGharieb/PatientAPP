@@ -552,9 +552,7 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
             tasksHBox.getChildren().clear();
             double total = 0;
             double total1 = 0;
-            System.out.println(tasksHBox.getChildren().size() + "tasksHBox size <<<<<<<<<<<<<<");
             for (int t = 0; t < day_Selected.getTasks().size(); t++) {
-                //TitleLabel
                 Label taskTile = new Label(day_Selected.getTask(t).getTaskName());  //change
                 taskTile.setTextAlignment(TextAlignment.CENTER);
                 taskTile.setAlignment(Pos.CENTER);
@@ -593,8 +591,8 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 descText.setFont(new Font("Copperplate Gothic Bold", 14));
                 descText.setEditable(false);
                 //descText.setMinSize(150, 150);
-                descText.setPrefSize(150, 150);
-                descText.setMaxSize(200,150);
+                descText.setPrefSize(150, 100);
+                descText.setMaxSize(200,100);
                 descText.setWrapText(true);
                 descText.setMouseTransparent(true);
 
@@ -622,9 +620,8 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 progText.setText(progs); //change
                 progText.setFont(new Font("Copperplate Gothic Bold", 14));
                 progText.setEditable(false);
-                //progText.setMinSize(150, 150);
-                progText.setPrefSize(150, 150);
-                progText.setMaxSize(200, 150);
+                progText.setPrefSize(100, 100);
+                progText.setMaxSize(100, 100);
                 progText.setWrapText(true);
                 progText.setMouseTransparent(true);
 
@@ -718,7 +715,15 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 edit.setFont(new javafx.scene.text.Font("Copperplate Gothic Bold", 20));
                 edit.setPrefWidth(150);
                 edit.setPrefHeight(25);
-                edit.setStyle("-fx-background-color: #ABABABAB;");
+                edit.setStyle("-fx-background-color: #103F66;"+
+                "-fx-border-width: 2px; " +
+                "-fx-border-radius: 20px; " +
+                "-fx-background-radius: 20px; " +
+                "-fx-border-style: solid; " +
+                "-fx-border-color: #000000; " +
+                "-fx-text-fill: white;"+
+                "-fx-min-height: 35; " +  
+                "-fx-pref-height: 35;");     
 
                 //TaskBPane
                 BorderPane newTask = new BorderPane();
@@ -732,14 +737,15 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 newTask.setAlignment(progVBox, Pos.CENTER);
                 newTask.setBottom(stauslabel);
                 newTask.setAlignment(stauslabel, Pos.CENTER);
-                newTask.setMaxHeight(237);
-                newTask.setPrefHeight(237);
-                newTask.setMinHeight(237);
-                //System.out.println(day_now.getTask(t).getPercentageOfDay());
-                newTask.setMinWidth(300 + (10 * day_Selected.getTask(t).getPercentageOfDay())); //
-                newTask.setMaxWidth(300 + (10 * day_Selected.getTask(t).getPercentageOfDay())); //
-                newTask.setPrefWidth(300 + (10 * day_Selected.getTask(t).getPercentageOfDay()));  // change
-                newTask.setStyle("-fx-background-color: #a5b0b0;");
+                newTask.setMaxHeight(220);
+                newTask.setPrefHeight(220);
+                newTask.setMinHeight(220);
+
+                newTask.setMinWidth(250); //
+                newTask.setMaxWidth(250); //
+                newTask.setPrefWidth(250);  // change
+                newTask.setStyle("-fx-background-color: #FFFFFF; -fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px; -fx-text-fill: white;");
+
                 newTask.setId("" + day_Selected.getTask(t).getTaskID());
 
                 //adding Task to taskHBox
@@ -747,20 +753,21 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 //Changing day Progress
                 if (day_Selected.getTask(t).isSubmitted()) {
                     total1 += day_Selected.getTask(t).getPercentageOfDay();
-                    System.out.println(total1+"..........day total 1 !!!");
                     total += day_Selected.getTask(t).getSubmittedPercentage();
-                    System.out.println(total+"..........day total !!!");
-                    //System.out.println(total);
                     
                     if(total1 == 0){
                     	System.out.println((total/total1) +"..........day progress !!!" + " " + total1);
                     	 p.getDayById(day_Selected.getDayID()).setDayProgress((total/100));
                        dayProgress.setProgress((total/100));
+                       String progressBarStyle = "-fx-accent: darkgreen;";
+                       dayProgress.setStyle(progressBarStyle);
                     }
                     else{
                     System.out.println((total/total1) +"..........day progress !!!");
                     p.getDayById(day_Selected.getDayID()).setDayProgress((total/total1));
                     dayProgress.setProgress((total/total1));
+                    String progressBarStyle = "-fx-accent: darkgreen;";
+                    dayProgress.setStyle(progressBarStyle);
                     }
                 }
             }
@@ -778,12 +785,12 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         for (Node x: tasksHBox.getChildren()) {
             x.setOnMouseEntered(event -> {
                 if(day_Selected.getTaskByID(Integer.parseInt(x.getId())).isSubmitted()) {
-                    x.setStyle("-fx-background-color: lightgray;");
+                    x.setStyle("-fx-background-color: #106662; -fx-text-fill: white;");
                 }
             });
             x.setOnMouseExited(event -> {
                 if(day_Selected.getTaskByID(Integer.parseInt(x.getId())).isSubmitted()) {
-                    x.setStyle("-fx-background-color: #a5b0b0;");
+                    x.setStyle("-fx-border-color: #103F66; -fx-border-width: 3px; -fx-border-radius: 10px;");
                 }
             });
             x.setOnMouseClicked(event -> {
@@ -964,7 +971,6 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
             ui_task1.bindTitleToLabel(t, taskLabel);
             t.setDurationInMinutes();
             adaptor.setTasknow(t);
-            System.out.println(t.getDurationInMinutes() + "Weselt we fih task!!!!!<<<<<<");
             ui_task1.bindDescriptionToLabel(t, descriptionField);
             hboxProgress.getChildren().clear();
             hboxProgress.getChildren().addAll(sTime, progressBar, rTime);
@@ -973,7 +979,6 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         }
         else{
             if(!isLast(day_now)) {
-                System.out.println("Weselt!!!!!<<<<<<");
                 submitButton.setDisable(true);
                 t = getNextTask(day_now);
                 previousTask = getPreviousTask(day_now);
@@ -1032,7 +1037,15 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 Report.setContentDisplay(ContentDisplay.RIGHT);
                 Report.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 Report.setPrefHeight(30);
-                Report.setStyle("-fx-background-color: #2b686d55;");          
+                Report.setStyle("-fx-background-color: #103F66;"+
+                "-fx-border-width: 2px; " +
+                "-fx-border-radius: 20px; " +
+                "-fx-background-radius: 20px; " +
+                "-fx-border-style: solid; " +
+                "-fx-border-color: #000000; " +
+                "-fx-text-fill: white;"+
+                "-fx-min-height: 35; " +  
+                "-fx-pref-height: 35;");      
                 
                 
                 // Create Chat button
@@ -1043,7 +1056,16 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 chatButton.setContentDisplay(ContentDisplay.RIGHT);
                 chatButton.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 chatButton.setPrefHeight(30);
-                chatButton.setStyle("-fx-background-color: #2b686d55;");           
+                chatButton.setStyle("-fx-background-color: #103F66;"+
+                "-fx-border-width: 2px; " +
+                "-fx-border-radius: 20px; " +
+                "-fx-background-radius: 20px; " +
+                "-fx-border-style: solid; " +
+                "-fx-border-color: #000000; " +
+                "-fx-text-fill: white;"+
+                "-fx-min-height: 35; " +  
+                "-fx-pref-height: 35;");
+
                 chatButton.setOnMouseClicked(event -> {
                     openChatWindow();
                 });
@@ -1062,17 +1084,17 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
                 Notifications.setPrefWidth(Control.USE_COMPUTED_SIZE);
                 Notifications.setPrefHeight(30);
                 Notifications.setStyle("-fx-background-color: #2b686d55;");
+                Notifications.setVisible(false);
 
                 HBox buttonBox = new HBox();
                 buttonBox.setSpacing(10); // Adjust the spacing between buttons
-                buttonBox.getChildren().addAll(Report , Notifications, chatButton);
+                buttonBox.getChildren().addAll(Notifications ,Report, chatButton);
                 
                 
                 //notification functions and logic
         		ActionEvent event = null;
         		Notifications.setOnAction(e -> NotificationController.handleButtonAction((ActionEvent)event));
         		Report.setOnAction(e -> ReportFeed.display((String)"A Reminder Alert to your on your task with countdown"));
-        		
                 vBoxTask.getChildren().clear();
                 vBoxTask.getChildren().addAll(done1, done2,buttonBox);
                 vBoxTask.setAlignment(Pos.CENTER);
@@ -1147,13 +1169,35 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
     private void openChatWindow() {
         // Define chatbox UI components
         startChatRefresh();
+
         TextField chatInput = new TextField();
+        chatInput.setPrefHeight(50.0);
+        chatInput.setPrefWidth(399.0);
         chatInput.setPromptText("Type a message...");
-        chatInput.setPrefWidth(200);
+
+        Button sendButton = new Button();
+        sendButton.setPrefHeight(35.0);
+        sendButton.setPrefWidth(65.0);
+        sendButton.setText("Send");
+        sendButton.setStyle("-fx-background-color: #103F66;"+
+                    "-fx-border-width: 2px; " +
+                    "-fx-border-radius: 20px; " +
+                    "-fx-background-radius: 20px; " +
+                    "-fx-border-style: solid; " +
+                    "-fx-border-color: #000000; " +
+                    "-fx-text-fill: white;"+
+                    "-fx-min-height: 35; " +  
+                    "-fx-pref-height: 35;");
+        sendButton.setTextFill(javafx.scene.paint.Color.WHITE);
+        sendButton.getStyleClass().add("inner_pane");
+
+
+
+
+
         String coachName = adaptor.getPatient().getCoachName();
         String patientName = adaptor.getPatient().getPatientName();
 
-        Button sendButton = new Button("Send");
         sendButton.setOnAction(e -> {
             String message = chatInput.getText();
             System.out.println("Message sent: " + message);      
@@ -1173,10 +1217,11 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         
     
         messageDisplay = new TextArea();
-        messageDisplay.setEditable(false);
-        messageDisplay.setStyle("-fx-background-color: inherit;"); // Apply inline style to chat window
-        messageDisplay.setPrefWidth(250);
-        messageDisplay.setPrefHeight(150);
+        messageDisplay.setEditable(false);        
+        messageDisplay.setPrefHeight(333.0);
+        messageDisplay.setPrefWidth(474.0);
+        messageDisplay.setStyle("-fx-background-color: inherit;");
+    
     
         HBox inputLayout = new HBox(chatInput, sendButton);
         inputLayout.setAlignment(Pos.CENTER);
@@ -1185,16 +1230,18 @@ if(adaptor.getReloadapp().defaultButtonProperty().getValue()){
         VBox chatboxLayout = new VBox(messageDisplay, inputLayout);
         chatboxLayout.setAlignment(Pos.CENTER);
         chatboxLayout.setSpacing(10);
+        chatboxLayout.setAlignment(javafx.geometry.Pos.CENTER);
+        chatboxLayout.setPrefHeight(439.0);
+        chatboxLayout.setPrefWidth(505.0);
+        chatboxLayout.setStyle("-fx-background-color: #bebeb6; -fx-border-color: #103F66; -fx-border-width: 3px;"); 
+
     
-        // Create a new stage (window) for the chatbox
         Stage chatboxStage = new Stage();
         chatboxStage.setTitle(adaptor.getPatient().getCoachName());
-        chatboxStage.setScene(new Scene(chatboxLayout, 300, 200));
+        chatboxStage.setScene(new Scene(chatboxLayout, 505, 439));
     
-        // Set the modality of the chatbox stage to APPLICATION_MODAL
         chatboxStage.initModality(Modality.APPLICATION_MODAL);
     
-        // Show the chatbox stage
         chatboxStage.show();
         chatboxStage.setOnCloseRequest(event->stopRefresh());
     }

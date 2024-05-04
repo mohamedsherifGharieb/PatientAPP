@@ -1,0 +1,60 @@
+.root {
+    margin: 0;
+    -fx-background-color: #EAEEF4;
+    -fx-border-color: #103F66; /* Set border color to the equivalent hexadecimal value */
+    -fx-border-width: 5px; /* Set border width */
+    -fx-border-radius: 10px; /* Set border radius */
+    -fx-effect: dropshadow(three-pass-box, #103F66, 10, 0, 0, 0); /* Add glow effect */
+    overflow: hidden; /* Hide any content that extends beyond the bounds of the container */
+}
+
+.weekplan_label {
+    -fx-text-fill: #103F66; /* Set text color to the equivalent hexadecimal value */
+    -fx-border-width: 0 0 5px 0 ; /* Set border width */
+}
+.DayPanel {
+    -fx-background-color: #bebeb6;
+    -fx-text-fill: #103F66; /* Set text color to the equivalent hexadecimal value */
+    -fx-border-color: #103F66; /* Set border color */
+    -fx-border-width: 0 0 5px 0; /* Set border width (top right bottom left) */
+}
+.side_ankerpane {
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-color: #103F66;
+}
+.background-color {
+    -fx-background-color: #bebeb6;
+}
+.inner_pane {
+    -fx-background-color: #103F66;
+    -fx-border-width: 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+    -fx-border-color: #000000; /* Set border color to black */
+}
+.border{
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+#tasksVBox {
+    -fx-background-color: #bebeb6;
+}
+
+.WelcomeText {
+    -fx-text-alignment: center; /* Center-align the text */
+    -fx-text-fill: #103F66; /* Set text color */
+}
+
+.LOGOUT {
+    -fx-background-color: #8B0000; /* Darker shade of red */
+    -fx-border-width: 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+    -fx-border-color: #000000; /* Set border color to black */
+}
+.chat{
+}
