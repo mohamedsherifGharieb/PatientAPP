@@ -295,18 +295,18 @@ public class Adaptor {
     private HBox taskNowTopHBox;
     private HBox taskNowBottomHBox;
 
-    public HBox getMainHBox() {
+    public VBox getMainHBox() {
     	
         return mainHBox;
     }
 
-    public void setMainHBox(HBox mainHBox) {
+    public void setMainHBox(VBox mainHBox) {
         this.mainHBox = mainHBox;
         this.setMainChildren();
         this.setOriginalheightHBMain((int)mainHBox.getHeight());
     }
 
-    private HBox mainHBox;
+    private VBox mainHBox;
 
     public ObservableList<Node> getMainChildren() {
         return mainChildren;
