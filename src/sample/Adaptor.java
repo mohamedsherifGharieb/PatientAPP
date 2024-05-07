@@ -349,7 +349,7 @@ public class Adaptor {
 
     private Day day_now;
     private Label dayLabel;
-    private HBox tasksHBox;
+    private VBox tasksHBox;
     private int hour = calendar.get(Calendar.HOUR_OF_DAY);
 
     public ProgressBar getDayProgress() {
@@ -380,11 +380,11 @@ public class Adaptor {
         this.hour = hour;
     }
 
-    public HBox getTasksHBox() {
+    public VBox getTasksHBox() {
         return tasksHBox;
     }
 
-    public void setTasksHBox(HBox tasksHBox) {
+    public void setTasksHBox(VBox tasksHBox) {
         this.tasksHBox = tasksHBox;
     }
 

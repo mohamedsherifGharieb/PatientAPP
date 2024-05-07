@@ -10,13 +10,13 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<HBox fx:id="mainHBox" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="507.0" prefWidth="1028.0" styleClass="background-color" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+<HBox fx:id="mainHBox" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="552.0" prefWidth="451.0" styleClass="background-color" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
-      <VBox fx:id="mainVBox" prefHeight="709.0" prefWidth="1018.0" styleClass="background-color" stylesheets="@style.css">
+      <VBox fx:id="mainVBox" prefHeight="545.0" prefWidth="446.0" styleClass="background-color" stylesheets="@style.css">
          <children>
             <HBox fx:id="taskNowTop" prefHeight="56.0" prefWidth="1018.0" styleClass="background-color" stylesheets="@style.css">
                <children>
-                  <Label fx:id="taskLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="1018.0" styleClass="DayPanel" stylesheets="@style.css" text="Report" textFill="#103f66">
+                  <Label fx:id="taskLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="36.0" prefWidth="443.0" styleClass="DayPanel" stylesheets="@style.css" text="Report" textFill="#103f66">
                      <font>
                         <Font size="21.0" />
                      </font>
@@ -25,11 +25,11 @@
             </HBox>
             <HBox fx:id="taskNowBottom" prefHeight="70.0" prefWidth="1028.0" style="-fx-background-color: #bebeb6;">
                <children>
-                  <VBox fx:id="vBoxTask" prefHeight="67.0" prefWidth="993.0">
+                  <VBox fx:id="vBoxTask" prefHeight="69.0" prefWidth="398.0">
                      <children>
                         <HBox fx:id="taskNowMiddle" prefHeight="35.0" prefWidth="1031.0" spacing="20.0">
                            <children>
-                              <Label fx:id="desctiptionLabel" contentDisplay="CENTER" text="Description:" textFill="#103f66">
+                              <Label fx:id="desctiptionLabel" contentDisplay="CENTER" prefHeight="31.0" prefWidth="161.0" text="Description:" textFill="#103f66">
                                  <font>
                                     <Font name="Copperplate Gothic Bold" size="15.0" />
                                  </font>
@@ -40,12 +40,12 @@
                                     <Insets />
                                  </HBox.margin>
                               </Label>
-                              <Label fx:id="descriptionField" prefHeight="28.0" prefWidth="528.0" text="Label" textFill="#103f66">
+                              <Label fx:id="descriptionField" prefHeight="28.0" prefWidth="126.0" text="Label" textFill="#103f66">
                                  <font>
                                     <Font name="Copperplate Gothic Bold" size="15.0" />
                                  </font>
                               </Label>
-                              <Button mnemonicParsing="false" prefHeight="21.0" prefWidth="68.0" text="Report">
+                              <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="92.0" text="Report">
                                  <padding>
                                     <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
                                  </padding>
@@ -53,7 +53,7 @@
                                     <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
                                  </HBox.margin>
                               </Button>
-                              <Button mnemonicParsing="false" prefHeight="20.0" prefWidth="98.0" text="Notifications">
+                              <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="123.0" text="Notifications">
                                  <padding>
                                     <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
                                  </padding>
@@ -63,7 +63,7 @@
                               </Button>
                            </children>
                         </HBox>
-                        <HBox fx:id="hboxProgress" alignment="CENTER" prefHeight="21.0" prefWidth="953.0" translateY="10.0" BorderPane.alignment="CENTER">
+                        <HBox fx:id="hboxProgress" alignment="CENTER" prefHeight="38.0" prefWidth="578.0" translateY="10.0" BorderPane.alignment="CENTER">
                            <children>
                               <Label fx:id="sTime" alignment="TOP_CENTER" prefHeight="21.0" prefWidth="60.0" text="Label" textFill="#103f66">
                                  <HBox.margin>
@@ -73,7 +73,7 @@
                                     <Font name="Copperplate Gothic Bold" size="15.0" />
                                  </font>
                               </Label>
-                              <ProgressBar fx:id="progressBar" maxHeight="25.0" minHeight="10.0" opacity="0.83" prefHeight="21.0" prefWidth="699.0" progress="0.78" />
+                              <ProgressBar fx:id="progressBar" maxHeight="25.0" minHeight="10.0" opacity="0.83" prefHeight="25.0" prefWidth="237.0" progress="0.78" />
                               <Label fx:id="rTime" alignment="TOP_CENTER" prefHeight="21.0" text="Label" textFill="#103f66">
                                  <HBox.margin>
                                     <Insets left="20.0" />
@@ -86,9 +86,9 @@
                         </HBox>
                      </children>
                   </VBox>
-                  <VBox prefHeight="65.0" prefWidth="47.0" spacing="5.0">
+                  <VBox prefHeight="69.0" prefWidth="36.0" spacing="5.0">
                      <children>
-                        <Button fx:id="submitButton" alignment="CENTER" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+                        <Button fx:id="submitButton" alignment="CENTER" mnemonicParsing="false" prefHeight="35.0" prefWidth="31.0" />
                         <Button fx:id="expandButton" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
                      </children>
                   </VBox>
@@ -125,26 +125,24 @@
                <center>
                   <ScrollPane fx:id="tasksScroll" prefHeight="259.0" prefViewportHeight="257.0" prefViewportWidth="1028.0" prefWidth="1018.0" styleClass="background-color" stylesheets="@style.css" vbarPolicy="NEVER">
                      <content>
-                        <HBox fx:id="tasksHBox" prefHeight="245.0" prefWidth="1016.0" spacing="5.0" styleClass="background-color" stylesheets="@style.css" BorderPane.alignment="CENTER" />
+                        <VBox fx:id="tasksHBox" prefHeight="292.0" prefWidth="440.0" />
                      </content>
                   </ScrollPane>
                </center>
-               <bottom>
-                  <HBox alignment="CENTER" prefHeight="37.0" prefWidth="1028.0" style="-fx-background-color: #103f66;" BorderPane.alignment="CENTER">
-                     <children>
-                        <Label alignment="CENTER" contentDisplay="CENTER" text="tasks Completed" textFill="WHITE">
-                           <font>
-                              <Font name="Copperplate Gothic Bold" size="18.0" />
-                           </font>
-                           <padding>
-                              <Insets bottom="10.0" left="10.0" right="30.0" top="10.0" />
-                           </padding>
-                        </Label>
-                        <ProgressBar fx:id="dayProgress" prefHeight="23.0" prefWidth="750.0" progress="0.0" />
-                     </children>
-                  </HBox>
-               </bottom>
             </BorderPane>
+            <HBox alignment="CENTER" prefHeight="37.0" prefWidth="1028.0" style="-fx-background-color: #103f66;">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="47.0" prefWidth="182.0" text="tasks Completed" textFill="WHITE">
+                     <font>
+                        <Font name="Copperplate Gothic Bold" size="18.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="30.0" top="10.0" />
+                     </padding>
+                  </Label>
+                  <ProgressBar fx:id="dayProgress" prefHeight="23.0" prefWidth="160.0" progress="0.0" />
+               </children>
+            </HBox>
          </children>
       </VBox>
    </children>

@@ -53,7 +53,7 @@ public class Controller extends PlanParser implements Initializable {
     @FXML private ProgressBar progressBar;
     @FXML private Button expandButton;
     @FXML private Button submitButton;
-    @FXML private HBox tasksHBox;
+    @FXML private VBox tasksHBox;
     @FXML private Label dayLabel;
     @FXML private Button nextDay;
     @FXML private Button previousDay;

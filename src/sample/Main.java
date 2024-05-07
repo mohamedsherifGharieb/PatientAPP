@@ -218,10 +218,8 @@ public class Main extends Application {
         int width = (int) Toolkit.getDefaultToolkit().getScreenSize().getWidth();
         int height = (int) Toolkit.getDefaultToolkit().getScreenSize().getHeight();
         System.out.println("width is: " + width + " and height is: " + height);
-        primaryStage.setX((width)/2-510);
-        primaryStage.setY((height/2)-300);
-        //primaryStage.setX((width / 2) - 510);
-        //primaryStage.setY((height / 2) - 540); // - 100 to hide small task
+        primaryStage.setX(0);
+        primaryStage.setY(0);
         primaryStage.sizeToScene();
         primaryStage.setAlwaysOnTop(true);
 
@@ -230,7 +228,7 @@ public class Main extends Application {
         //webView to connect to server
         WebView web = new WebView();
 
-        web.setPrefSize(640, 390);
+        web.setPrefSize(451, 552);
         webView = new Stage();
         webView.initModality(Modality.APPLICATION_MODAL);
         webView.initOwner(primaryStage);
